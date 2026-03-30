@@ -120,7 +120,9 @@ Superpower  : Building India-first autonomous systems that compete globally
   <img src="https://img.shields.io/badge/Tech-Embedded%20Systems-blue?style=for-the-badge&logo=circuitpython" />
   <img src="https://img.shields.io/badge/Location-International%20Circuit-red?style=for-the-badge&logo=world" />
 </p>
+
 ---
+
 ## 🇪🇪 International Robotics Competition | Estonia
 ### Autonomous Maze Solver (16x16 Grid)
 
