@@ -115,38 +115,39 @@ Superpower  : Building India-first autonomous systems that compete globally
 
 ## `$ Competitions/`
 
-# 🤖 Advanced Robotics & Autonomous Systems
+# ADVANCED ROBOTICS AND AUTONOMOUS SYSTEMS
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-National%20Record-gold?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Tech-Embedded%20Systems-blue?style=for-the-badge&logo=circuitpython" />
-  <img src="https://img.shields.io/badge/Location-International%20Circuit-red?style=for-the-badge&logo=world" />
+  <img src="https://img.shields.io/badge/STATUS-NATIONAL_RECORD_HOLDER-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DOMAIN-EMBEDDED_SYSTEMS-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CIRCUIT-INTERNATIONAL-black?style=for-the-badge" />
 </p>
 
 ---
 
-## 🇪🇪 International Robotics Competition | Estonia
-### 🏆 Autonomous Maze Solver (16x16 Grid)
+## INTERNATIONAL COMPETITIVE MILESTONES
+### ESTONIA — INTERNATIONAL ROBOTICS COMPETITION
 
 <table width="100%">
   <tr>
-    <td bgcolor="#002b36" colspan="2">
-      <h3 align="center"><font color="#ffffff">🌍 GLOBAL PERFORMANCE SUMMARY</font></h3>
+    <td bgcolor="#1c1c1c" colspan="2">
+      <h3 align="center"><font color="#ffffff">AUTONOMOUS MAZE SOLVER — 16x16 GRID</font></h3>
     </td>
   </tr>
   <tr>
-    <td bgcolor="#073642" width="50%">
-      <h4 align="center"><font color="#268bd2">🏅 Achievements</font></h4>
+    <td bgcolor="#262626" width="50%">
+      <h4 align="center"><font color="#ffffff">GLOBAL STANDINGS</font></h4>
       <ul>
-        <li><font color="#ffffff"><b>Global Rank:</b> #5</font></li>
-        <li><font color="#ffffff"><b>World Rank:</b> #8</font></li>
-        <li><font color="#ffffff"><b>Milestone:</b> India's FIRST 16x16 solver</font></li>
+        <li><font color="#cccccc"><b>Global Rank:</b> #5</font></li>
+        <li><font color="#cccccc"><b>World Rank:</b> #8</font></li>
+        <li><font color="#cccccc"><b>National Distinction:</b> India's first 16x16 maze-solving implementation at an international level.</font></li>
       </ul>
     </td>
-    <td bgcolor="#073642" width="50%">
-      <h4 align="center"><font color="#268bd2">🛠️ Intelligence Stack</font></h4>
+    <td bgcolor="#262626" width="50%">
+      <h4 align="center"><font color="#ffffff">TECHNICAL STACK</font></h4>
       <p align="center">
-        <font color="#ffffff">A* Algorithm • SLAM • LIDAR</font><br>
-        <font color="#ffffff">Dijkstra • Ultrasonic Fusion</font>
+        <font color="#cccccc">A* Algorithm | SLAM | Dijkstra</font><br>
+        <font color="#cccccc">LIDAR Integration | Ultrasonic Fusion</font><br>
+        <font color="#cccccc">Dynamic Path Correction Logic</font>
       </p>
     </td>
   </tr>
@@ -154,78 +155,94 @@ Superpower  : Building India-first autonomous systems that compete globally
 
 ---
 
-## 🇮🇳 National Speed Record
-### ⚡ India's Fastest Autonomous Line Navigator
+## NATIONAL PERFORMANCE BENCHMARKS
+### INDIA'S FASTEST AUTONOMOUS LINE NAVIGATION SYSTEM
 
 <table width="100%">
   <tr>
-    <td bgcolor="#1e1e1e" width="50%">
-      <h4 align="center"><font color="#00ff00">📊 Performance Metrics</font></h4>
-      <p align="center"><font color="#ffffff"><b>Status:</b> India's FASTEST Navigator</font><br>
-      <font color="#ffffff">New National Benchmark Established</font></p>
+    <td bgcolor="#1c1c1c" width="50%">
+      <h4 align="center"><font color="#ffffff">PERFORMANCE ANALYTICS</font></h4>
+      <p align="center">
+        <font color="#cccccc"><b>Status:</b> Fastest Autonomous Navigation in India</font><br>
+        <font color="#cccccc">Verified National Speed Benchmark</font>
+      </p>
     </td>
-    <td bgcolor="#2d2d2d" width="50%">
-      <h4 align="center"><font color="#00d7ff">⚙️ System Design</font></h4>
-      <p align="center"><font color="#ffffff">16-Sensor Proprietary Array</font><br>
-      <font color="#ffffff">Advanced PID Control Loop</font></p>
+    <td bgcolor="#1c1c1c" width="50%">
+      <h4 align="center"><font color="#ffffff">SYSTEM ARCHITECTURE</font></h4>
+      <p align="center">
+        <font color="#cccccc">16-Sensor Proprietary Array</font><br>
+        <font color="#cccccc">Advanced PID Control Systems</font><br>
+        <font color="#cccccc">Micro-second Latency Feedback Loops</font>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🔧 Engineering Portfolio
+## ENGINEERING PORTFOLIO AND TECHNICAL PROJECTS
 
 <table width="100%">
   <tr>
-    <td bgcolor="#4b6584" width="33%">
-      <h4 align="center"><font color="#ffffff">🤖 WheelieBot</font></h4>
-      <p align="center"><font color="#d1d8e0">ROS 2 Navigation & Perception</font></p>
+    <td bgcolor="#262626" width="33%">
+      <h4 align="center"><font color="#ffffff">UNIVERSAL WHEELIEBOT</font></h4>
+      <p align="center"><font color="#aaaaaa">ROS 2 framework for multi-modal navigation and perception.</font></p>
     </td>
-    <td bgcolor="#20bf6b" width="33%">
-      <h4 align="center"><font color="#ffffff">📍 Pathfinder</font></h4>
-      <p align="center"><font color="#f1f2f6">Autonomous AMR Navigation</font></p>
+    <td bgcolor="#262626" width="33%">
+      <h4 align="center"><font color="#ffffff">PATHFINDER AMR</font></h4>
+      <p align="center"><font color="#aaaaaa">Autonomous Mobile Robot featuring dynamic pathfinding capabilities.</font></p>
     </td>
-    <td bgcolor="#eb3b5a" width="33%">
-      <h4 align="center"><font color="#ffffff">🚶 Bipedal Bot</font></h4>
-      <p align="center"><font color="#f1f2f6">Complex Gait & RPi Logic</font></p>
+    <td bgcolor="#262626" width="33%">
+      <h4 align="center"><font color="#ffffff">BIPEDAL HUMANOID</font></h4>
+      <p align="center"><font color="#aaaaaa">Raspberry Pi based gait analysis and complex movement control.</font></p>
     </td>
   </tr>
   <tr>
-    <td bgcolor="#f7b731" width="33%">
-      <h4 align="center"><font color="#ffffff">👁️ FaceRec Bot</font></h4>
-      <p align="center"><font color="#f1f2f6">Real-time Vision (OpenCV)</font></p>
+    <td bgcolor="#262626">
+      <h4 align="center"><font color="#ffffff">COMPUTER VISION BOT</font></h4>
+      <p align="center"><font color="#aaaaaa">Real-time facial detection using OpenCV and camera-vision arrays.</font></p>
     </td>
-    <td bgcolor="#8854d0" width="33%">
-      <h4 align="center"><font color="#ffffff">🌀 Maze AGV</font></h4>
-      <p align="center"><font color="#f1f2f6">Industrial Guide Systems</font></p>
+    <td bgcolor="#262626">
+      <h4 align="center"><font color="#ffffff">INDUSTRIAL AGV</font></h4>
+      <p align="center"><font color="#aaaaaa">Automated Guided Vehicle technology for maze and path optimization.</font></p>
     </td>
-    <td bgcolor="#45aaf2" width="33%">
-      <h4 align="center"><font color="#ffffff">📟 30+ Projects</font></h4>
-      <p align="center"><font color="#f1f2f6">Embedded Systems Library</font></p>
+    <td bgcolor="#262626">
+      <h4 align="center"><font color="#ffffff">EMBEDDED SYSTEMS</font></h4>
+      <p align="center"><font color="#aaaaaa">Extensive portfolio of 30+ Arduino and RPi based solutions.</font></p>
     </td>
   </tr>
 </table>
 
 <table width="100%">
   <tr>
-    <td bgcolor="#fa8231" width="50%">
-      <h3 align="center"><font color="#ffffff">🏭 Industrial Automation (FMS)</font></h3>
-      <p align="center"><font color="#ffffff">Color Sorting • Metal Detection • Mock Drilling</font></p>
+    <td bgcolor="#1c1c1c" width="50%">
+      <h4 align="center"><font color="#ffffff">FLEXIBLE MANUFACTURING (FMS)</font></h4>
+      <p align="center">
+        <font color="#cccccc">IIoT Industrial Automation including Color Sorting, Metal Detection, and Precision Mock Drilling.</font>
+      </p>
     </td>
-    <td bgcolor="#3867d6" width="50%">
-      <h3 align="center"><font color="#ffffff">🏠 Smart Home IoT</font></h3>
-      <p align="center"><font color="#ffffff">ESP32 Cloud • Local Network Automation</font></p>
+    <td bgcolor="#1c1c1c" width="50%">
+      <h4 align="center"><font color="#ffffff">SMART HOME ECOSYSTEM</font></h4>
+      <p align="center">
+        <font color="#cccccc">Full-stack IoT solution utilizing ESP32 for cloud-integrated and local automation control.</font>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
+
+## CORE TECHNICAL COMPETENCIES
+<p align="center">
+  <img src="https://img.shields.io/badge/LANGUAGES-C++_|_PYTHON_|_C-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/HARDWARE-ESP32_|_ARDUINO_|_RASPBERRY_PI-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/PLATFORMS-ROS_2_|_OPENCV_|_IIOT-black?style=flat-square" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintainer-Raunak--Choudhary-white?style=for-the-badge&logo=github&labelColor=black" />
-  <img src="https://img.shields.io/badge/Company-Botics--Edutech-orange?style=for-the-badge" />
+  <font color="#aaaaaa">Documented and Maintained by Raunak Choudhary</font>
 </p>
+
 ##  Tech Stack & Tooling
 
 <p align="">
