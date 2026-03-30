@@ -151,8 +151,6 @@ Superpower  : Building India-first autonomous systems that compete globally
 
 > **Intelligence Overview:** Features dynamic path correction and high-speed obstacle detection optimized for micro-maze environments.
 
----
-
 ## 🇮🇳 India's Fastest Autonomous Line Navigator
 ### 16-Sensor Custom Proprietary System
 
@@ -185,8 +183,80 @@ Superpower  : Building India-first autonomous systems that compete globally
 | **Sensor Array** | First 16-sensor custom implementation in India |
 | **Navigation** | SLAM-based motion planning |
 | **Feedback** | Real-time correction with micro-second latency |
+## 🔧 Engineering Portfolio & Notable Projects
+
+<div align="center">
+  <h3>🤖 Advanced Robotics & AMR</h3>
+  <table width="100%">
+    <tr>
+      <td width="33%" valign="top">
+        <h4><b>Universal WheelieBot</b></h4>
+        <code>ROS 2</code> • <code>SLAM</code><br>
+        Multi-modal navigation, complex manipulation, and perception tasks.
+      </td>
+      <td width="33%" valign="top">
+        <h4><b>Pathfinder Robot</b></h4>
+        <code>AMR Navigation</code><br>
+        Advanced Autonomous Mobile Robot (AMR) with dynamic pathfinding.
+      </td>
+      <td width="33%" valign="top">
+        <h4><b>Bipedal Humanoid</b></h4>
+        <code>Raspberry Pi</code><br>
+        Research-grade humanoid focusing on complex gait and interaction.
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" valign="top">
+        <h4><b>Face Recognition Bot</b></h4>
+        <code>OpenCV</code> • <code>Computer Vision</code><br>
+        Real-time detection and identification via dedicated camera vision.
+      </td>
+      <td width="33%" valign="top">
+        <h4><b>Maze & Path AGV</b></h4>
+        <code>AGV Technology</code><br>
+        Industrial-grade Automated Guided Vehicle implementation.
+      </td>
+      <td width="33%" valign="top">
+        <h4><b>30+ Embedded Systems</b></h4>
+        <code>Arduino</code> • <code>ESP32</code><br>
+        Extensive library of micro-controller based hardware solutions.
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <h3>🏭 Industrial & Smart Systems</h3>
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h4><b>Flexible Manufacturing System (FMS)</b></h4>
+        <code>IIoT</code> • <code>Industrial Automation</code><br>
+        A comprehensive production line simulation featuring:
+        <ul>
+          <li>Precision Color Sorting</li>
+          <li>Metal Detection & Mock Drilling</li>
+          <li>Real-time monitoring via IIoT protocols</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h4><b>Smart Home Automation Kit</b></h4>
+        <code>IoT</code> • <code>ESP32 Ecosystem</code><br>
+        Full-stack IoT solution for smart home control, featuring local and cloud-based automation.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained-Yes-00ff00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributions-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contact-Botics%20Edutech-orange?style=for-the-badge" />
+</p>
 
 ## 🛠️ Tech Stack & Tooling
 
