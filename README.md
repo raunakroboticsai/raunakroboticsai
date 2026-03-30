@@ -1,12 +1,29 @@
 <div align="center">
 
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=700&lines=Raunak+Choudhary;Robotics+%26+Embedded+Systems+Engineer;AI+%7C+IIoT+%7C+Autonomous+Systems+Specialist)](https://git.io/typing-svg)
 
+<img src="https://komarev.com/ghpvc/?username=raunakchyy&style=flat-square&color=2D9CDB&label=Profile+Views" alt="Profile Views" />
+
 </div>
----
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=750&lines=Robotics+%26+Embedded+Systems+Engineer;India's+Fastest+Line+Navigation+Robot+%E2%80%94+Builder;5th+Place+Globally+%7C+Maze+Solver+%7C+Estonia+2024;1500%2B+Students+Trained+%7C+National+Award+Winner;ROS2+%7C+IIoT+%7C+SLAM+%7C+Autonomous+Systems)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://img.shields.io/badge/STATE%20AWARD-WINNER-FFD700?style=for-the-badge&labelColor=0D1117&color=FFD700" />
+<img src="https://img.shields.io/badge/NATIONAL%20AWARD-WINNER-FF6B35?style=for-the-badge&labelColor=0D1117&color=FF6B35" />
+<img src="https://img.shields.io/badge/GLOBAL%20RANK-5th%20%7C%20Estonia-00D4FF?style=for-the-badge&labelColor=0D1117&color=00D4FF" />
+<img src="https://img.shields.io/badge/STUDENTS%20TRAINED-1500%2B-7CFC00?style=for-the-badge&labelColor=0D1117&color=7CFC00" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=raunakchyy&style=flat-square&color=00D4FF&label=Profile+Views" />
+
+</div>
+
+<br>
 
 <br>
 
