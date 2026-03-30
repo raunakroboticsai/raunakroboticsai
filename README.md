@@ -1,13 +1,15 @@
 <div align="center">
 
-```
-██████╗  █████╗ ██╗   ██╗███╗   ██╗ █████╗ ██╗  ██╗
-██╔══██╗██╔══██╗██║   ██║████╗  ██║██╔══██╗██║ ██╔╝
-██████╔╝███████║██║   ██║██╔██╗ ██║███████║█████╔╝
-██╔══██╗██╔══██║██║   ██║██║╚██╗██║██╔══██║██╔═██╗
-██║  ██║██║  ██║╚██████╔╝██║ ╚████║██║  ██║██║  ██╗
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=700&lines=Raunak+Choudhary;Robotics+%26+Embedded+Systems+Engineer;AI+%7C+IIoT+%7C+Autonomous+Systems+Specialist)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=raunakchyy&style=flat-square&color=2D9CDB&label=Profile+Views" alt="Profile Views" />
+
+</div>
+
+---
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=750&lines=Robotics+%26+Embedded+Systems+Engineer;India's+Fastest+Line+Navigation+Robot+%E2%80%94+Builder;5th+Place+Globally+%7C+Maze+Solver+%7C+Estonia+2024;1500%2B+Students+Trained+%7C+National+Award+Winner;ROS2+%7C+IIoT+%7C+SLAM+%7C+Autonomous+Systems)](https://git.io/typing-svg)
 
