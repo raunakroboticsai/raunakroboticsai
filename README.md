@@ -115,97 +115,95 @@ Superpower  : Building India-first autonomous systems that compete globally
 
 ## `$ Competitions/`
 
-### Estonia — International Robotics Competition 2024
+# 🤖 Advanced Robotics & Autonomous Systems
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  AUTONOMOUS MAZE SOLVER — 16x16 Grid                        │
-│                                                             │
-│  Global Rank  : #5                                          │
-│  World Rank   : #8                                          │
-│  Achievement  : India's FIRST robot to solve 16x16 maze     │
-│                 in an international competition             │
-│                                                             │
-│  Tech Stack   : A* + Dijkstra Pathfinding | LIDAR           │
-│                 Ultrasonic Sensors | SLAM | Localization    │
-│                 Dynamic Path Correction | Obstacle Detect   │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### India's Fastest Autonomous Line Navigation Robot
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  LINE NAVIGATION — 16-Array Custom Sensor System            │
-│                                                             │
-│  Status       : India's FASTEST — New National Benchmark   │
-│  Sensor Array : 16-sensor custom design (First in India)   │
-│                                                             │
-│  Tech Stack   : Advanced PID Control | Sensor Fusion        │
-│                 SLAM | Motion Planning | Real-time Feedback │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-## $ Competitions/
-
-### Estonia — International Robotics Competition 2024
-
-```txt
-██████████████████████████████████████████████████████████████████
-█                                                                █
-█   AUTONOMOUS MAZE SOLVER — 16x16 GRID                          █
-█                                                                █
-██████████████████████████████████████████████████████████████████
-
-[ PERFORMANCE ]
-
-  Global Rank      :  #5
-  World Rank       :  #8
-
-[ ACHIEVEMENT ]
-
-  India's FIRST robot to solve a 16x16 maze
-  in an international robotics competition
-
-[ TECH STACK ]
-
-  Path Planning    :  A* Algorithm, Dijkstra
-  Mapping          :  SLAM, Localization
-  Sensors          :  LIDAR, Ultrasonic
-  Intelligence     :  Dynamic Path Correction
-                     Obstacle Detection
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-National%20Record-gold?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Tech-Embedded%20Systems-blue?style=for-the-badge&logo=circuitpython" />
+  <img src="https://img.shields.io/badge/Location-International%20Circuit-red?style=for-the-badge&logo=world" />
+</p>
 
 ---
 
-### India's Fastest Autonomous Line Navigation Robot
+## 🇪🇪 International Robotics Competition | Estonia
+### Autonomous Maze Solver (16x16 Grid)
 
-```txt
-██████████████████████████████████████████████████████████████████
-█                                                                █
-█   LINE NAVIGATION — 16 SENSOR CUSTOM SYSTEM                    █
-█                                                                █
-██████████████████████████████████████████████████████████████████
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <h3>🏆 Achievements</h3>
+        <ul>
+          <li><b>Global Rank:</b> #5</li>
+          <li><b>World Rank:</b> #8</li>
+          <li><b>National Milestone:</b> India's FIRST robot to successfully solve a 16x16 maze in an international arena.</li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h3>🛠️ Technical Architecture</h3>
+        <p>
+          <code>Path Planning</code> • <code>A* Algorithm</code> • <code>Dijkstra</code><br>
+          <code>Mapping</code> • <code>SLAM</code> • <code>Localization</code><br>
+          <code>Hardware</code> • <code>LIDAR</code> • <code>Ultrasonic Fusion</code>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-[ STATUS ]
+> **Intelligence Overview:** Features dynamic path correction and high-speed obstacle detection optimized for micro-maze environments.
 
-  India's FASTEST autonomous line navigation robot
-  New national benchmark established
+---
 
-[ SYSTEM DESIGN ]
+## 🇮🇳 India's Fastest Autonomous Line Navigator
+### 16-Sensor Custom Proprietary System
 
-  Sensor Array     :  16-sensor custom design
-                      First implementation in India
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <h3>⚡ Performance Metrics</h3>
+        <ul>
+          <li><b>Status:</b> India's FASTEST autonomous line navigation system.</li>
+          <li><b>Record:</b> Established a new national benchmark for speed and precision.</li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h3>⚙️ System Design</h3>
+        <p>
+          <code>Control</code> • <code>Advanced PID Loop</code><br>
+          <code>Processing</code> • <code>Sensor Fusion</code><br>
+          <code>Design</code> • <code>16-Sensor Custom Array</code>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-[ TECH STACK ]
+### 🏗️ Engineering Breakdown
 
-  Control System   :  Advanced PID Control
-  Processing       :  Sensor Fusion
-  Navigation       :  SLAM, Motion Planning
-  Feedback         :  Real-time Correction System
-```
+| Module | Implementation |
+| :--- | :--- |
+| **Sensor Array** | First 16-sensor custom implementation in India |
+| **Navigation** | SLAM-based motion planning |
+| **Feedback** | Real-time correction with micro-second latency |
+
+---
+
+## 🛠️ Tech Stack & Tooling
+
+<p align="">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
+</p>
+
+---
+<p align="center">
+  <i>Developed with precision by Raunak Choudhary</i>
+</p>
 
 
 ## `$ Certifications --industry`
