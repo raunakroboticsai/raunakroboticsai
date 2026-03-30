@@ -130,12 +130,12 @@ Superpower  : Building India-first autonomous systems that compete globally
 <table width="100%">
   <tr>
     <td bgcolor="#1c1c1c" colspan="2">
-      <h3 align="center"><font color="#ffffff">AUTONOMOUS MAZE SOLVER — 16x16 GRID</font></h3>
+      <h3 align="center"><font color="#0000ff">AUTONOMOUS MAZE SOLVER — 16x16 GRID</font></h3>
     </td>
   </tr>
   <tr>
     <td bgcolor="#262626" width="50%">
-      <h4 align="center"><font color="#ffffff">GLOBAL STANDINGS</font></h4>
+      <h4 align="center"><font color="#ffff00">GLOBAL STANDINGS</font></h4>
       <ul>
         <li><font color="#cccccc"><b>Global Rank:</b> #5</font></li>
         <li><font color="#cccccc"><b>World Rank:</b> #8</font></li>
@@ -143,7 +143,7 @@ Superpower  : Building India-first autonomous systems that compete globally
       </ul>
     </td>
     <td bgcolor="#262626" width="50%">
-      <h4 align="center"><font color="#ffffff">TECHNICAL STACK</font></h4>
+      <h4 align="center"><font color="#00ffff">TECHNICAL STACK</font></h4>
       <p align="center">
         <font color="#cccccc">A* Algorithm | SLAM | Dijkstra</font><br>
         <font color="#cccccc">LIDAR Integration | Ultrasonic Fusion</font><br>
@@ -161,14 +161,14 @@ Superpower  : Building India-first autonomous systems that compete globally
 <table width="100%">
   <tr>
     <td bgcolor="#1c1c1c" width="50%">
-      <h4 align="center"><font color="#ffffff">PERFORMANCE ANALYTICS</font></h4>
+      <h4 align="center"><font color="#ff00ff">PERFORMANCE ANALYTICS</font></h4>
       <p align="center">
         <font color="#cccccc"><b>Status:</b> Fastest Autonomous Navigation in India</font><br>
         <font color="#cccccc">Verified National Speed Benchmark</font>
       </p>
     </td>
     <td bgcolor="#1c1c1c" width="50%">
-      <h4 align="center"><font color="#ffffff">SYSTEM ARCHITECTURE</font></h4>
+      <h4 align="center"><font color="#ff00ff">SYSTEM ARCHITECTURE</font></h4>
       <p align="center">
         <font color="#cccccc">16-Sensor Proprietary Array</font><br>
         <font color="#cccccc">Advanced PID Control Systems</font><br>
@@ -185,16 +185,16 @@ Superpower  : Building India-first autonomous systems that compete globally
 <table width="100%">
   <tr>
     <td bgcolor="#262626" width="33%">
-      <h4 align="center"><font color="#ffffff">UNIVERSAL WHEELIEBOT</font></h4>
-      <p align="center"><font color="#aaaaaa">ROS 2 framework for multi-modal navigation and perception.</font></p>
+      <h4 align="center"><font color="#ff00ff">UNIVERSAL WHEELIEBOT</font></h4>
+      <p align="center"><font color="#00ff00">ROS 2 framework for multi-modal navigation and perception.</font></p>
     </td>
     <td bgcolor="#262626" width="33%">
-      <h4 align="center"><font color="#ffffff">PATHFINDER AMR</font></h4>
-      <p align="center"><font color="#aaaaaa">Autonomous Mobile Robot featuring dynamic pathfinding capabilities.</font></p>
+      <h4 align="center"><font color="#ff00ff">PATHFINDER AMR</font></h4>
+      <p align="center"><font color="#00ff00">Autonomous Mobile Robot featuring dynamic pathfinding capabilities.</font></p>
     </td>
     <td bgcolor="#262626" width="33%">
-      <h4 align="center"><font color="#ffffff">BIPEDAL HUMANOID</font></h4>
-      <p align="center"><font color="#aaaaaa">Raspberry Pi based gait analysis and complex movement control.</font></p>
+      <h4 align="center"><font color="#ff00ff">BIPEDAL HUMANOID</font></h4>
+      <p align="center"><font color="#00ff00">Raspberry Pi based gait analysis and complex movement control.</font></p>
     </td>
   </tr>
   <tr>
@@ -208,7 +208,7 @@ Superpower  : Building India-first autonomous systems that compete globally
     </td>
     <td bgcolor="#262626">
       <h4 align="center"><font color="#ffffff">EMBEDDED SYSTEMS</font></h4>
-      <p align="center"><font color="#aaaaaa">Extensive portfolio of 30+ Arduino and RPi based solutions.</font></p>
+      <p align="center"><font color="#000080">Extensive portfolio of 30+ Arduino and RPi based solutions.</font></p>
     </td>
   </tr>
 </table>
@@ -216,7 +216,7 @@ Superpower  : Building India-first autonomous systems that compete globally
 <table width="100%">
   <tr>
     <td bgcolor="#1c1c1c" width="50%">
-      <h4 align="center"><font color="#ffffff">FLEXIBLE MANUFACTURING (FMS)</font></h4>
+      <h4 align="center"><font color="#000080">FLEXIBLE MANUFACTURING (FMS)</font></h4>
       <p align="center">
         <font color="#cccccc">IIoT Industrial Automation including Color Sorting, Metal Detection, and Precision Mock Drilling.</font>
       </p>
@@ -224,7 +224,7 @@ Superpower  : Building India-first autonomous systems that compete globally
     <td bgcolor="#1c1c1c" width="50%">
       <h4 align="center"><font color="#ffffff">SMART HOME ECOSYSTEM</font></h4>
       <p align="center">
-        <font color="#cccccc">Full-stack IoT solution utilizing ESP32 for cloud-integrated and local automation control.</font>
+        <font color="#000080">Full-stack IoT solution utilizing ESP32 for cloud-integrated and local automation control.</font>
       </p>
     </td>
   </tr>
