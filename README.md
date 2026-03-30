@@ -148,6 +148,29 @@ Superpower  : Building India-first autonomous systems that compete globally
 
 <br>
 
+## Competitions
+
+### Estonia — International Robotics Competition 2024
+
+<p align="center">
+<img src="https://readme-components.vercel.app/api?component=card&title=Autonomous%20Maze%20Solver%20-%2016x16%20Grid&desc=Global%20Rank:%20%235%20%7C%20World%20Rank:%20%238%20%7C%20India's%20First%20Robot%20to%20Solve%2016x16%20Maze%20in%20International%20Competition&bg=0D1117&text=FFFFFF&border=00FFFF" />
+</p>
+
+<p align="center">
+<img src="https://readme-components.vercel.app/api?component=card&title=Technical%20Stack&desc=A*%20Pathfinding,%20Dijkstra%20Algorithm,%20SLAM,%20Localization,%20LIDAR,%20Ultrasonic%20Sensors,%20Dynamic%20Path%20Correction,%20Obstacle%20Detection&bg=161B22&text=FFFFFF&border=00FFFF" />
+</p>
+
+---
+
+### India's Fastest Autonomous Line Navigation Robot
+
+<p align="center">
+<img src="https://readme-components.vercel.app/api?component=card&title=Line%20Navigation%20-%2016%20Sensor%20Array%20System&desc=India's%20Fastest%20Autonomous%20Line%20Navigation%20Robot%20%7C%20New%20National%20Benchmark%20%7C%2016-Sensor%20Custom%20Design%20(First%20in%20India)&bg=0D1117&text=FFFFFF&border=FF00FF" />
+</p>
+
+<p align="center">
+<img src="https://readme-components.vercel.app/api?component=card&title=Technical%20Stack&desc=Advanced%20PID%20Control,%20Sensor%20Fusion,%20SLAM,%20Motion%20Planning,%20Real-time%20Feedback%20Systems&bg=161B22&text=FFFFFF&border=FF00FF" />
+</p>
 
 
 ## `$ Certifications --industry`
