@@ -148,29 +148,64 @@ Superpower  : Building India-first autonomous systems that compete globally
 
 <br>
 
-## Competitions
+## $ Competitions/
 
 ### Estonia — International Robotics Competition 2024
 
-<p align="center">
-<img src="https://readme-components.vercel.app/api?component=card&title=Autonomous%20Maze%20Solver%20-%2016x16%20Grid&desc=Global%20Rank:%20%235%20%7C%20World%20Rank:%20%238%20%7C%20India's%20First%20Robot%20to%20Solve%2016x16%20Maze%20in%20International%20Competition&bg=0D1117&text=FFFFFF&border=00FFFF" />
-</p>
+```txt
+██████████████████████████████████████████████████████████████████
+█                                                                █
+█   AUTONOMOUS MAZE SOLVER — 16x16 GRID                          █
+█                                                                █
+██████████████████████████████████████████████████████████████████
 
-<p align="center">
-<img src="https://readme-components.vercel.app/api?component=card&title=Technical%20Stack&desc=A*%20Pathfinding,%20Dijkstra%20Algorithm,%20SLAM,%20Localization,%20LIDAR,%20Ultrasonic%20Sensors,%20Dynamic%20Path%20Correction,%20Obstacle%20Detection&bg=161B22&text=FFFFFF&border=00FFFF" />
-</p>
+[ PERFORMANCE ]
+
+  Global Rank      :  #5
+  World Rank       :  #8
+
+[ ACHIEVEMENT ]
+
+  India's FIRST robot to solve a 16x16 maze
+  in an international robotics competition
+
+[ TECH STACK ]
+
+  Path Planning    :  A* Algorithm, Dijkstra
+  Mapping          :  SLAM, Localization
+  Sensors          :  LIDAR, Ultrasonic
+  Intelligence     :  Dynamic Path Correction
+                     Obstacle Detection
+```
 
 ---
 
 ### India's Fastest Autonomous Line Navigation Robot
 
-<p align="center">
-<img src="https://readme-components.vercel.app/api?component=card&title=Line%20Navigation%20-%2016%20Sensor%20Array%20System&desc=India's%20Fastest%20Autonomous%20Line%20Navigation%20Robot%20%7C%20New%20National%20Benchmark%20%7C%2016-Sensor%20Custom%20Design%20(First%20in%20India)&bg=0D1117&text=FFFFFF&border=FF00FF" />
-</p>
+```txt
+██████████████████████████████████████████████████████████████████
+█                                                                █
+█   LINE NAVIGATION — 16 SENSOR CUSTOM SYSTEM                    █
+█                                                                █
+██████████████████████████████████████████████████████████████████
 
-<p align="center">
-<img src="https://readme-components.vercel.app/api?component=card&title=Technical%20Stack&desc=Advanced%20PID%20Control,%20Sensor%20Fusion,%20SLAM,%20Motion%20Planning,%20Real-time%20Feedback%20Systems&bg=161B22&text=FFFFFF&border=FF00FF" />
-</p>
+[ STATUS ]
+
+  India's FASTEST autonomous line navigation robot
+  New national benchmark established
+
+[ SYSTEM DESIGN ]
+
+  Sensor Array     :  16-sensor custom design
+                      First implementation in India
+
+[ TECH STACK ]
+
+  Control System   :  Advanced PID Control
+  Processing       :  Sensor Fusion
+  Navigation       :  SLAM, Motion Planning
+  Feedback         :  Real-time Correction System
+```
 
 
 ## `$ Certifications --industry`
