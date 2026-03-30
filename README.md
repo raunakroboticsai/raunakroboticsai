@@ -269,7 +269,7 @@ Leadership & Training            ███████████████�
 **Academic Institutions:**
 ```
 IIT Bombay | IIT Patna | COEP University | AIT Pune | PCCOE Pune
-WCOE Sangli | PVG COET | PVPIT Pune | IIIT Pune | CDGI | +14 More
+WCOE Sangli | PVG COET | PVPIT Pune | IIIT Pune | CDGI | +20 More
 ```
 
 </div>
@@ -285,6 +285,7 @@ WCOE Sangli | PVG COET | PVPIT Pune | IIIT Pune | CDGI | +14 More
 | Bharati Vidyapeeth (Deemed University) | Advanced Embedded Systems & IoT Workshop | 50+ | 4 Days |
 | PVG's College of Engineering & Technology | Career Guidance — Robotics & Automation (Robotex-India) | Students + Faculty | 2 Days |
 | SKNCOE, Pune | Robotics Club Captain & Mentor | 60+ Club Members | 2021–2025 |
+| Robotex-India | Robotics & AI Training ( Educational) | 1500+ | 2024-2025 |
 | Botics Edtech Pvt. Ltd | Robotics & Automation Training (Industrial + Educational) | 1500+ | Ongoing |
 
 </div>
