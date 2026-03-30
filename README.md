@@ -176,7 +176,7 @@ Superpower  : Building India-first autonomous systems that compete globally
   </table>
 </div>
 
-### 🏗️ Engineering Breakdown
+###  Engineering Breakdown
 
 | Module | Implementation |
 | :--- | :--- |
@@ -186,7 +186,7 @@ Superpower  : Building India-first autonomous systems that compete globally
 ## 🔧 Engineering Portfolio & Notable Projects
 
 <div align="center">
-  <h3>🤖 Advanced Robotics & AMR</h3>
+  <h3> Advanced Robotics Project</h3>
   <table width="100%">
     <tr>
       <td width="33%" valign="top">
@@ -226,7 +226,7 @@ Superpower  : Building India-first autonomous systems that compete globally
 
   <br>
 
-  <h3>🏭 Industrial & Smart Systems</h3>
+  <h3> Industrial & Smart Systems</h3>
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
@@ -258,7 +258,7 @@ Superpower  : Building India-first autonomous systems that compete globally
   <img src="https://img.shields.io/badge/Contact-Botics%20Edutech-orange?style=for-the-badge" />
 </p>
 
-## 🛠️ Tech Stack & Tooling
+##  Tech Stack & Tooling
 
 <p align="">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
