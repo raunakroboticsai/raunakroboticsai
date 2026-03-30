@@ -17,8 +17,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=raunakchyy&style=flat-square&color=00D4FF&label=Profile+Views" />
-
 </div>
 
 <br>
