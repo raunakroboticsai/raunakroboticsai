@@ -232,12 +232,29 @@ Superpower  : Building India-first autonomous systems that compete globally
 
 </p>
 
+##  Skills Radar
 
-## `$ Certifications --industry`
+```
+Robotics Hardware Integration    ████████████████████  95%
+Embedded Systems & MCUs          ████████████████████  95%
+ROS2 & Autonomous Navigation     ██████████████████░░  90%
+SLAM & Motion Planning           █████████████████░░░  85%
+IIoT & Industrial Automation     █████████████████░░░  85%
+AI / Machine Learning            ████████████████░░░░  80%
+Computer Vision (OpenCV)         ████████████████░░░░  80%
+Control Systems (PID/MPC/Kalman) ██████████████████░░  88%
+Electronics & Circuit Design     ████████████████████  92%
+Wireless Comms & Networking      █████████████████░░░  85%
+Leadership & Training            ████████████████████  95%
+```
+
+---
+
+##  Certifications `
 
 <div align="center">
 
-### Industry Certifications
+###  Certifications
 
 | Company | | Company | |
 |---|---|---|---|
@@ -248,32 +265,31 @@ Superpower  : Building India-first autonomous systems that compete globally
 
 `Kodacy` • `Allison CPD` • **+12 more industry certifications**
 
-### Academic Certifications
 
-`IIT Bombay` • `IIT Patna` • `COEP University` • `AIT Pune` • `PCCOE Pune`
-
-`WCOE Sangli` • `PVG COET` • `PVPIT Pune` • `IIIT Pune` • `CDGI` • **+14 more**
+**Academic Institutions:**
+```
+IIT Bombay | IIT Patna | COEP University | AIT Pune | PCCOE Pune
+WCOE Sangli | PVG COET | PVPIT Pune | IIIT Pune | CDGI | +14 More
+```
 
 </div>
 
-<br>
+---
+## 🎓 Training & Teaching Experience
+
+<div align="center">
+
+| 🏛️ Institution | 📚 Program | 👥 Students | ⏱️ Duration |
+|----------------|-----------|------------|------------|
+| Amrutvahini College of Engineering | Industrial Robotics Workshop — ROS 2 (with Robotics Society of India) | 50+ | 7 Days |
+| Bharati Vidyapeeth (Deemed University) | Advanced Embedded Systems & IoT Workshop | 50+ | 4 Days |
+| PVG's College of Engineering & Technology | Career Guidance — Robotics & Automation (Robotex-India) | Students + Faculty | 2 Days |
+| SKNCOE, Pune | Robotics Club Captain & Mentor | 60+ Club Members | 2021–2025 |
+| Botics Edtech Pvt. Ltd | Robotics & Automation Training (Industrial + Educational) | 1500+ | Ongoing |
+
+</div>
 
 ---
-
-## `$ git log --oneline --teaching`
-
-```
-7f3a2c1  [Amrutvahini COE]        7-Day ROS2 Industrial Robotics Workshop    → 50+ students
-4d8b1e9  [Bharati Vidyapeeth]     4-Day Advanced Embedded Systems & IoT      → 50+ students
-2c9f3a7  [PVGCOET]                2-Day Career Guidance — Robotics/Automation → students + faculty
-a1b4d8e  [SKNCOE — 4 Years]       Robotics Club Captain & Mentor             → 60+ member team
-9e7c2f1  [Botics Ed Tech]         Ongoing Training Programs                  → 1500+ total trained
-```
-
-<br>
-
----
-
 ## `$ github-stats --user raunakchyy`
 
 <div align="center">
@@ -303,7 +319,7 @@ a1b4d8e  [SKNCOE — 4 Years]       Robotics Club Captain & Mentor             �
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-cyashwnat910%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyashwnat910@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-cyashwnat910%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunakroboticsai@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raunakchyy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raunakchyy/)
 [![Phone](https://img.shields.io/badge/WhatsApp-9262754961-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919262754961)
 [![Location](https://img.shields.io/badge/Pune-Maharashtra%2C%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Pune)
