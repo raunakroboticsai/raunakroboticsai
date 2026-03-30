@@ -22,17 +22,17 @@
 
 
 ---
-## `$ whoami`
+## `$ Whoami`
 
 ```yaml
-name        : Raunak Choudhary
-title       : Robotics & Embedded Systems Engineer
-location    : Pune, Maharashtra, India
-degree      : B.E. Electronics & Telecommunications — SPPU (CGPA 7.48, First Class 2025)
-focus       : Autonomous Robots | IIoT | AI/ML in Robotics | ROS2 | Embedded Systems
-status      : Research & Product Development @ Botics Ed Tech Pvt. Ltd.
-recognition : State Award + National Award in Robotics & IoT
-superpower  : Building India-first autonomous systems that compete globally
+Name        : Raunak Choudhary
+Title       : Robotics & AI , Embedded Systems Engineer ,
+Location    : Pune, Maharashtra, India
+Degree      : B.E. Electronics & Telecommunications — SPPU (CGPA 7.48, First Class )
+Focus       : Autonomous Robots | IIoT | AI/ML in Robotics | ROS2 | Embedded Systems
+Status      : Research & Product Development @ Botics Ed Tech Pvt. Ltd.
+Recognition : State Award + National Award in Robotics & IoT
+Superpower  : Building India-first autonomous systems that compete globally
 ```
 
 > Engineer who builds robots that **rank globally**, trains the next generation of roboticists, and converts lab prototypes into **market-ready products**.
@@ -40,8 +40,59 @@ superpower  : Building India-first autonomous systems that compete globally
 <br>
 
 ---
+### Core Domains
 
-## `$ cat achievements.log` — The Highlight Reel
+![Robotics](https://img.shields.io/badge/Robotics-Hardware%20Integration-2D9CDB?style=flat-square)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-Microcontrollers-2D9CDB?style=flat-square)
+![IIoT](https://img.shields.io/badge/IIoT-Industrial%20Internet%20of%20Things-2D9CDB?style=flat-square)
+![Control Systems](https://img.shields.io/badge/Control_Systems-PID%20%7C%20MPC%20%7C%20Kalman-2D9CDB?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-Perception-2D9CDB?style=flat-square)
+![SLAM](https://img.shields.io/badge/SLAM-Autonomous%20Navigation-2D9CDB?style=flat-square)
+![AMR](https://img.shields.io/badge/AMR-Autonomous%20Mobile%20Robots-2D9CDB?style=flat-square)
+![AGV](https://img.shields.io/badge/AGV-Automated%20Guided%20Vehicles-2D9CDB?style=flat-square)
+
+### Hardware Platforms
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![PIC](https://img.shields.io/badge/PIC16F877A-ED1C24?style=flat-square)
+![AVR](https://img.shields.io/badge/AVR_ATmega328P-1B5E20?style=flat-square)
+![STM32F405](https://img.shields.io/badge/STM32F405RG-03234B?style=flat-square)
+
+### Programming & AI Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+
+### Communication Protocols
+
+![I2C](https://img.shields.io/badge/I2C-555555?style=flat-square)
+![SPI](https://img.shields.io/badge/SPI-555555?style=flat-square)
+![UART](https://img.shields.io/badge/UART-555555?style=flat-square)
+![CAN](https://img.shields.io/badge/CAN-555555?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
+![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=flat-square&logo=zigbee&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa%20%7C%20LoRaWAN-0D47A1?style=flat-square)
+![WiFi](https://img.shields.io/badge/Wi--Fi%20%7C%205G-1565C0?style=flat-square)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-37474F?style=flat-square)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0A3D91?style=flat-square&logo=bluetooth&logoColor=white)
+
+### Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+
+
+## `$ Achievements` — The Highlight Reel
 
 <div align="center">
 
@@ -62,7 +113,7 @@ superpower  : Building India-first autonomous systems that compete globally
 
 ---
 
-## `$ ls ./competitions/`
+## `$ Competitions/`
 
 ### Estonia — International Robotics Competition 2024
 
