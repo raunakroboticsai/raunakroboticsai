@@ -150,52 +150,47 @@ Superpower  : Building India-first autonomous systems that compete globally
 
 ---
 
-## `$ cat projects.json`
+## Professional Experience
 
-```json
-[
-  {
-    "name": "Universal WheelieBot",
-    "stack": ["ROS 2", "Navigation", "Manipulation", "Perception"],
-    "type": "Advanced Mobile Robot"
-  },
-  {
-    "name": "Flexible Manufacturing System",
-    "stack": ["IIoT", "Color Sorting", "Metal Detection", "Mock Drilling"],
-    "type": "Industrial Automation"
-  },
-  {
-    "name": "Face Detection & Recognition Robot",
-    "stack": ["OpenCV", "TensorFlow", "Camera Vision"],
-    "type": "Computer Vision"
-  },
-  {
-    "name": "Bipedal Humanoid Robot",
-    "stack": ["Raspberry Pi", "Servo Control", "Motion Planning"],
-    "type": "Humanoid Robotics"
-  },
-  {
-    "name": "Pathfinder Robot (AMR)",
-    "stack": ["AMR Navigation", "SLAM", "Pathfinding"],
-    "type": "Autonomous Navigation"
-  },
-  {
-    "name": "Home Automation Kit",
-    "stack": ["ESP32", "MQTT", "IoT", "WiFi"],
-    "type": "Smart Home / IIoT"
-  },
-  {
-    "name": "30+ Embedded Systems Projects",
-    "stack": ["Arduino", "Raspberry Pi", "STM32", "Sensors"],
-    "type": "Embedded Systems"
-  }
-]
-```
+### Research & Product Development Specialist / Training Expert
+**Botics Ed Tech Pvt. Ltd. — Pune, MH, India** | April 2025 – Present
 
-<br>
+- Leading research and development of advanced robotics systems for educational and industrial applications, including autonomous robots, automation kits, and intelligent learning platforms.
+- Designing and optimizing mechanical structures, modular robotic systems, and sensor-integrated prototypes for high performance and manufacturability.
+- Conducted hands-on technical training for 1,500+ students and professionals; developed curriculum and supporting technical documentation.
+- Successfully transitioned prototype systems into market-ready products, expanding the company's product portfolio.
 
 ---
 
+### Research & Development Specialist / Technical Specialist
+**Robotex India — Pune, MH, India** | January 2024 – March 2025 | Certified
+
+- Designed and developed autonomous robots for national and international competitions, focusing on efficient and innovative robotic systems.
+- Built advanced prototypes; refined navigation and control algorithms; optimized hardware and software integration.
+- Actively implemented ROS 2, IIoT, and AI technologies to advance automation capabilities and system performance.
+- Mentored and trained students in advanced robot design, prototyping, and innovation practices.
+
+---
+
+### Robotics Developer Intern
+**SVR Robotics Pvt. Ltd. — Pune, MH, India** | July 2023 – December 2023 | Certified
+
+- Applied STEM and IoT/AI-ML expertise to optimize robotic connectivity and system performance.
+- Programmed SCARA and Articulated robots using AI/ML algorithms for enhanced precision and adaptability.
+- Integrated AI/ML capabilities into Dobot and educational robots.
+- Collaborated in multidisciplinary teams to troubleshoot and improve overall system reliability.
+
+---
+
+### Electronics Engineer Intern
+**Fired Primed Pvt. Ltd. — Navi Mumbai, MH, India** | January 2023 – June 2023 | Certified
+
+- Designed and developed a new controller for fire alarm systems, achieving a 15% reduction in response time.
+- Implemented gas detection system features with improved sensitivity and data logging capabilities.
+- Conducted extensive testing and troubleshooting to validate controller reliability.
+- Collaborated with the R&D team to identify future feature enhancements.
+
+---
 ## `$ ./skills --list-all`
 
 ### Hardware & Platforms
