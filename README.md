@@ -92,7 +92,7 @@ Superpower  : Building India-first autonomous systems that compete globally
 
 
 
-## `$ Achievements` — The Highlight Reel
+## `$ Achievements` —  Highlight 
 
 <div align="center">
 
@@ -148,122 +148,9 @@ Superpower  : Building India-first autonomous systems that compete globally
 
 <br>
 
----
 
-## Professional Experience
 
-### Research & Product Development Specialist / Training Expert
-**Botics Ed Tech Pvt. Ltd. — Pune, MH, India** | April 2025 – Present
-
-- Leading research and development of advanced robotics systems for educational and industrial applications, including autonomous robots, automation kits, and intelligent learning platforms.
-- Designing and optimizing mechanical structures, modular robotic systems, and sensor-integrated prototypes for high performance and manufacturability.
-- Conducted hands-on technical training for 1,500+ students and professionals; developed curriculum and supporting technical documentation.
-- Successfully transitioned prototype systems into market-ready products, expanding the company's product portfolio.
-
----
-
-### Research & Development Specialist / Technical Specialist
-**Robotex India — Pune, MH, India** | January 2024 – March 2025 | Certified
-
-- Designed and developed autonomous robots for national and international competitions, focusing on efficient and innovative robotic systems.
-- Built advanced prototypes; refined navigation and control algorithms; optimized hardware and software integration.
-- Actively implemented ROS 2, IIoT, and AI technologies to advance automation capabilities and system performance.
-- Mentored and trained students in advanced robot design, prototyping, and innovation practices.
-
----
-
-### Robotics Developer Intern
-**SVR Robotics Pvt. Ltd. — Pune, MH, India** | July 2023 – December 2023 | Certified
-
-- Applied STEM and IoT/AI-ML expertise to optimize robotic connectivity and system performance.
-- Programmed SCARA and Articulated robots using AI/ML algorithms for enhanced precision and adaptability.
-- Integrated AI/ML capabilities into Dobot and educational robots.
-- Collaborated in multidisciplinary teams to troubleshoot and improve overall system reliability.
-
----
-
-### Electronics Engineer Intern
-**Fired Primed Pvt. Ltd. — Navi Mumbai, MH, India** | January 2023 – June 2023 | Certified
-
-- Designed and developed a new controller for fire alarm systems, achieving a 15% reduction in response time.
-- Implemented gas detection system features with improved sensitivity and data logging capabilities.
-- Conducted extensive testing and troubleshooting to validate controller reliability.
-- Collaborated with the R&D team to identify future feature enhancements.
-
----
-## `$ ./skills --list-all`
-
-### Hardware & Platforms
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![PIC](https://img.shields.io/badge/PIC16F877A-ED1C24?style=for-the-badge)
-![AVR](https://img.shields.io/badge/AVR%20ATmega328P-1B5E20?style=for-the-badge)
-
-### Robotics & AI Stack
-
-![ROS2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SLAM](https://img.shields.io/badge/SLAM-Mapping%20%26%20Localization-00D4FF?style=for-the-badge)
-![Control](https://img.shields.io/badge/PID%20%7C%20MPC%20%7C%20Kalman-Control%20Systems-7CFC00?style=for-the-badge)
-
-### Communication Protocols
-
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-![Bluetooth](https://img.shields.io/badge/Bluetooth-0A3D91?style=for-the-badge&logo=bluetooth&logoColor=white)
-![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=for-the-badge&logo=zigbee&logoColor=white)
-![Protocols](https://img.shields.io/badge/I2C%20%7C%20SPI%20%7C%20UART%20%7C%20CAN-555555?style=for-the-badge)
-![LoRa](https://img.shields.io/badge/LoRa%20%7C%20LoRaWAN-0D47A1?style=for-the-badge)
-![Network](https://img.shields.io/badge/WiFi%20%7C%205G%20%7C%20TCP--IP-1565C0?style=for-the-badge)
-
-### Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-<br>
-
----
-
-## `$ cat experience.txt`
-
-```
-[ CURRENT ]  Botics Ed Tech Pvt. Ltd.          Apr 2025 – Present
-             Research & Product Dev Specialist / Training Expert
-             ↳ R&D of autonomous robots & intelligent learning platforms
-             ↳ 1,500+ students trained | curriculum + documentation created
-             ↳ Prototypes converted to commercial market-ready products
-
-[ 2024 ]     Robotex India                      Jan 2024 – Mar 2025
-             R&D Specialist / Technical Specialist (Certified)
-             ↳ Competition-grade autonomous robot design & development
-             ↳ ROS2, IIoT, AI integration | Navigation & control optimization
-             ↳ Student mentoring & technical training
-
-[ 2023 ]     SVR Robotics Pvt. Ltd.             Jul 2023 – Dec 2023
-             Robotics Developer Intern (Certified)
-             ↳ SCARA & Articulated robot programming with AI/ML
-             ↳ Dobot & educational robot AI/ML capability integration
-             ↳ IoT connectivity optimization for robotic applications
-
-[ 2023 ]     Fired Primed Pvt. Ltd.             Jan 2023 – Jun 2023
-             Electronics Engineer Intern (Certified)
-             ↳ Fire alarm controller redesign → 15% faster response time
-             ↳ Gas detection system: sensitivity + data logging improvements
-             ↳ Full R&D cycle: design → test → validate → deploy
-```
-
-<br>
-
----
-
-## `$ cat certifications --industry`
+## `$ Certifications --industry`
 
 <div align="center">
 
