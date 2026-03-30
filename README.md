@@ -275,7 +275,7 @@ WCOE Sangli | PVG COET | PVPIT Pune | IIIT Pune | CDGI | +20 More
 </div>
 
 ---
-## 🎓 Training & Teaching Experience
+## 🎓 Training Experience
 
 <div align="center">
 
@@ -289,45 +289,6 @@ WCOE Sangli | PVG COET | PVPIT Pune | IIIT Pune | CDGI | +20 More
 | Botics Edtech Pvt. Ltd | Robotics & Automation Training (Industrial + Educational) | 1500+ | Ongoing |
 
 </div>
-
----
-## `$ github-stats --user raunakchyy`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=raunakchyy&show_icons=true&theme=github_dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakchyy&layout=compact&theme=github_dark&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=raunakchyy&theme=github-dark-blue&hide_border=true&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=00D4FF" width="55%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raunakchyy&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FF6B35&area=true&hide_border=true" width="100%" />
-
-</div>
-
-<br>
-
----
-
-## `$ ping raunak`
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-cyashwnat910%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunakroboticsai@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raunakchyy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raunakchyy/)
-[![Phone](https://img.shields.io/badge/WhatsApp-9262754961-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919262754961)
-[![Location](https://img.shields.io/badge/Pune-Maharashtra%2C%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Pune)
-
-</div>
-
-<br>
 
 ---
 
