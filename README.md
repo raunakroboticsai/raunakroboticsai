@@ -115,150 +115,7 @@ Superpower  : Building India-first autonomous systems that compete globally
 
 ## `$ Competitions/`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-National%20Record-gold?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Tech-Embedded%20Systems-blue?style=for-the-badge&logo=circuitpython" />
-  <img src="https://img.shields.io/badge/Location-International%20Circuit-red?style=for-the-badge&logo=world" />
-</p>
-
----
-
-## 🇪🇪 International Robotics Competition | Estonia
-### Autonomous Maze Solver (16x16 Grid)
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <h3>🏆 Achievements</h3>
-        <ul>
-          <li><b>Global Rank:</b> #5</li>
-          <li><b>World Rank:</b> #8</li>
-          <li><b>National Milestone:</b> India's FIRST robot to successfully solve a 16x16 maze in an international arena.</li>
-        </ul>
-      </td>
-      <td width="50%">
-        <h3>🛠️ Technical Architecture</h3>
-        <p>
-          <code>Path Planning</code> • <code>A* Algorithm</code> • <code>Dijkstra</code><br>
-          <code>Mapping</code> • <code>SLAM</code> • <code>Localization</code><br>
-          <code>Hardware</code> • <code>LIDAR</code> • <code>Ultrasonic Fusion</code>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-> **Intelligence Overview:** Features dynamic path correction and high-speed obstacle detection optimized for micro-maze environments.
-
-## 🇮🇳 India's Fastest Autonomous Line Navigator
-### 16-Sensor Custom Proprietary System
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <h3>⚡ Performance Metrics</h3>
-        <ul>
-          <li><b>Status:</b> India's FASTEST autonomous line navigation system.</li>
-          <li><b>Record:</b> Established a new national benchmark for speed and precision.</li>
-        </ul>
-      </td>
-      <td width="50%">
-        <h3>⚙️ System Design</h3>
-        <p>
-          <code>Control</code> • <code>Advanced PID Loop</code><br>
-          <code>Processing</code> • <code>Sensor Fusion</code><br>
-          <code>Design</code> • <code>16-Sensor Custom Array</code>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-###  Engineering Breakdown
-
-| Module | Implementation |
-| :--- | :--- |
-| **Sensor Array** | First 16-sensor custom implementation in India |
-| **Navigation** | SLAM-based motion planning |
-| **Feedback** | Real-time correction with micro-second latency |
-## 🔧 Engineering Portfolio & Notable Projects
-
-<div align="center">
-  <h3> Advanced Robotics Project</h3>
-  <table width="100%">
-    <tr>
-      <td width="33%" valign="top">
-        <h4><b>Universal WheelieBot</b></h4>
-        <code>ROS 2</code> • <code>SLAM</code><br>
-        Multi-modal navigation, complex manipulation, and perception tasks.
-      </td>
-      <td width="33%" valign="top">
-        <h4><b>Pathfinder Robot</b></h4>
-        <code>AMR Navigation</code><br>
-        Advanced Autonomous Mobile Robot (AMR) with dynamic pathfinding.
-      </td>
-      <td width="33%" valign="top">
-        <h4><b>Bipedal Humanoid</b></h4>
-        <code>Raspberry Pi</code><br>
-        Research-grade humanoid focusing on complex gait and interaction.
-      </td>
-    </tr>
-    <tr>
-      <td width="33%" valign="top">
-        <h4><b>Face Recognition Bot</b></h4>
-        <code>OpenCV</code> • <code>Computer Vision</code><br>
-        Real-time detection and identification via dedicated camera vision.
-      </td>
-      <td width="33%" valign="top">
-        <h4><b>Maze & Path AGV</b></h4>
-        <code>AGV Technology</code><br>
-        Industrial-grade Automated Guided Vehicle implementation.
-      </td>
-      <td width="33%" valign="top">
-        <h4><b>30+ Embedded Systems</b></h4>
-        <code>Arduino</code> • <code>ESP32</code><br>
-        Extensive library of micro-controller based hardware solutions.
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <h3> Industrial & Smart Systems</h3>
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <h4><b>Flexible Manufacturing System (FMS)</b></h4>
-        <code>IIoT</code> • <code>Industrial Automation</code><br>
-        A comprehensive production line simulation featuring:
-        <ul>
-          <li>Precision Color Sorting</li>
-          <li>Metal Detection & Mock Drilling</li>
-          <li>Real-time monitoring via IIoT protocols</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h4><b>Smart Home Automation Kit</b></h4>
-        <code>IoT</code> • <code>ESP32 Ecosystem</code><br>
-        Full-stack IoT solution for smart home control, featuring local and cloud-based automation.
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Maintained-Yes-00ff00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributions-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contact-Botics%20Edutech-orange?style=for-the-badge" />
-</p>
 # 🤖 Advanced Robotics & Autonomous Systems
-
 <p align="center">
   <img src="https://img.shields.io/badge/Status-National%20Record-gold?style=for-the-badge&logo=target" />
   <img src="https://img.shields.io/badge/Tech-Embedded%20Systems-blue?style=for-the-badge&logo=circuitpython" />
@@ -270,136 +127,103 @@ Superpower  : Building India-first autonomous systems that compete globally
 ## 🇪🇪 International Robotics Competition | Estonia
 ### 🏆 Autonomous Maze Solver (16x16 Grid)
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td bgcolor="#1a1a1a" width="50%">
-        <h3 align="center">🏅 Achievements</h3>
-        <ul>
-          <li><b>Global Rank:</b> <font color="#FFD700">#5</font></li>
-          <li><b>World Rank:</b> <font color="#FFD700">#8</font></li>
-          <li><b>National Milestone:</b> India's FIRST 16x16 maze solver.</li>
-        </ul>
-      </td>
-      <td bgcolor="#1a1a1a" width="50%">
-        <h3 align="center">🛠️ Tech Stack</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Path-A*_Algorithm-blue" /> 
-          <img src="https://img.shields.io/badge/Map-SLAM-success" /> <br>
-          <img src="https://img.shields.io/badge/Sensor-LIDAR-red" />
-          <img src="https://img.shields.io/badge/Logic-Dijkstra-orange" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+  <tr>
+    <td bgcolor="#002b36" colspan="2">
+      <h3 align="center"><font color="#ffffff">🌍 GLOBAL PERFORMANCE SUMMARY</font></h3>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#073642" width="50%">
+      <h4 align="center"><font color="#268bd2">🏅 Achievements</font></h4>
+      <ul>
+        <li><font color="#ffffff"><b>Global Rank:</b> #5</font></li>
+        <li><font color="#ffffff"><b>World Rank:</b> #8</font></li>
+        <li><font color="#ffffff"><b>Milestone:</b> India's FIRST 16x16 solver</font></li>
+      </ul>
+    </td>
+    <td bgcolor="#073642" width="50%">
+      <h4 align="center"><font color="#268bd2">🛠️ Intelligence Stack</font></h4>
+      <p align="center">
+        <font color="#ffffff">A* Algorithm • SLAM • LIDAR</font><br>
+        <font color="#ffffff">Dijkstra • Ultrasonic Fusion</font>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🇮🇳 National Speed Record
 ### ⚡ India's Fastest Autonomous Line Navigator
 
-<div align="center">
-  <table width="100%">
-    <thead>
-      <tr>
-        <th bgcolor="#005f73">📊 Performance Metrics</th>
-        <th bgcolor="#0a9396">⚙️ System Design</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <ul>
-            <li><b>Status:</b> India's <font color="#00ff00">FASTEST</font> navigator</li>
-            <li><b>Record:</b> New national benchmark established</li>
-          </ul>
-        </td>
-        <td>
-          <p align="center">
-            <code>16-Sensor Array</code> • <code>PID Control</code><br>
-            <code>Sensor Fusion</code> • <code>Micro-second Latency</code>
-          </p>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table width="100%">
+  <tr>
+    <td bgcolor="#1e1e1e" width="50%">
+      <h4 align="center"><font color="#00ff00">📊 Performance Metrics</font></h4>
+      <p align="center"><font color="#ffffff"><b>Status:</b> India's FASTEST Navigator</font><br>
+      <font color="#ffffff">New National Benchmark Established</font></p>
+    </td>
+    <td bgcolor="#2d2d2d" width="50%">
+      <h4 align="center"><font color="#00d7ff">⚙️ System Design</font></h4>
+      <p align="center"><font color="#ffffff">16-Sensor Proprietary Array</font><br>
+      <font color="#ffffff">Advanced PID Control Loop</font></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔧 Notable Engineering Projects
+## 🔧 Engineering Portfolio
 
-<div align="center">
-  <h3>🚀 Advanced Robotics & Perception</h3>
-  <table width="100%">
-    <tr>
-      <td bgcolor="#2d3436" width="33%">
-        <h4 align="center">🔵 WheelieBot</h4>
-        <p align="center"><img src="https://img.shields.io/badge/ROS2-blue" /></p>
-        <p align="small">Navigation & perception tasks.</p>
-      </td>
-      <td bgcolor="#2d3436" width="33%">
-        <h4 align="center">🟢 Pathfinder</h4>
-        <p align="center"><img src="https://img.shields.io/badge/AMR-green" /></p>
-        <p align="small">Autonomous mobile navigation.</p>
-      </td>
-      <td bgcolor="#2d3436" width="33%">
-        <h4 align="center">🔴 Bipedal Bot</h4>
-        <p align="center"><img src="https://img.shields.io/badge/RPi-red" /></p>
-        <p align="small">Complex gait research.</p>
-      </td>
-    </tr>
-    <tr>
-      <td bgcolor="#2d3436">
-        <h4 align="center"> FaceRec Bot</h4>
-        <p align="center"><img src="https://img.shields.io/badge/OpenCV-yellow" /></p>
-        <p align="small">Real-time vision tracking.</p>
-      </td>
-      <td bgcolor="#2d3436">
-        <h4 align="center"> Maze AGV</h4>
-        <p align="center"><img src="https://img.shields.io/badge/AGV-purple" /></p>
-        <p align="small">Industrial guide systems.</p>
-      </td>
-      <td bgcolor="#2d3436">
-        <h4 align="center"> 30+ Projects</h4>
-        <p align="center"><img src="https://img.shields.io/badge/Arduino-white" /></p>
-        <p align="small">Embedded systems library.</p>
-      </td>
-    </tr>
-  </table>
+<table width="100%">
+  <tr>
+    <td bgcolor="#4b6584" width="33%">
+      <h4 align="center"><font color="#ffffff">🤖 WheelieBot</font></h4>
+      <p align="center"><font color="#d1d8e0">ROS 2 Navigation & Perception</font></p>
+    </td>
+    <td bgcolor="#20bf6b" width="33%">
+      <h4 align="center"><font color="#ffffff">📍 Pathfinder</font></h4>
+      <p align="center"><font color="#f1f2f6">Autonomous AMR Navigation</font></p>
+    </td>
+    <td bgcolor="#eb3b5a" width="33%">
+      <h4 align="center"><font color="#ffffff">🚶 Bipedal Bot</font></h4>
+      <p align="center"><font color="#f1f2f6">Complex Gait & RPi Logic</font></p>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#f7b731" width="33%">
+      <h4 align="center"><font color="#ffffff">👁️ FaceRec Bot</font></h4>
+      <p align="center"><font color="#f1f2f6">Real-time Vision (OpenCV)</font></p>
+    </td>
+    <td bgcolor="#8854d0" width="33%">
+      <h4 align="center"><font color="#ffffff">🌀 Maze AGV</font></h4>
+      <p align="center"><font color="#f1f2f6">Industrial Guide Systems</font></p>
+    </td>
+    <td bgcolor="#45aaf2" width="33%">
+      <h4 align="center"><font color="#ffffff">📟 30+ Projects</font></h4>
+      <p align="center"><font color="#f1f2f6">Embedded Systems Library</font></p>
+    </td>
+  </tr>
+</table>
 
-  <br>
-
-  <h3> Industrial Automation & IoT</h3>
-  <table width="100%">
-    <tr>
-      <td bgcolor="#1e272e" width="50%">
-        <h4 align="center"> Flexible Manufacturing (FMS)</h4>
-        <p align="center"><img src="https://img.shields.io/badge/IIoT-Orange" /></p>
-        <ul>
-          <li>Precision Color Sorting</li>
-          <li>Metal Detection & Drilling</li>
-        </ul>
-      </td>
-      <td bgcolor="#1e272e" width="50%">
-        <h4 align="center"> Smart Home Kit</h4>
-        <p align="center"><img src="https://img.shields.io/badge/ESP32-Blue" /></p>
-        <ul>
-          <li>Full-stack IoT Cloud</li>
-          <li>Local Network Automation</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
+<table width="100%">
+  <tr>
+    <td bgcolor="#fa8231" width="50%">
+      <h3 align="center"><font color="#ffffff">🏭 Industrial Automation (FMS)</font></h3>
+      <p align="center"><font color="#ffffff">Color Sorting • Metal Detection • Mock Drilling</font></p>
+    </td>
+    <td bgcolor="#3867d6" width="50%">
+      <h3 align="center"><font color="#ffffff">🏠 Smart Home IoT</font></h3>
+      <p align="center"><font color="#ffffff">ESP32 Cloud • Local Network Automation</font></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintainer-Raunak--Choudhary-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Maintainer-Raunak--Choudhary-white?style=for-the-badge&logo=github&labelColor=black" />
   <img src="https://img.shields.io/badge/Company-Botics--Edutech-orange?style=for-the-badge" />
 </p>
 ##  Tech Stack & Tooling
