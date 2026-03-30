@@ -1,240 +1,315 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=700&lines=Raunak+Choudhary;Robotics+%26+Embedded+Systems+Engineer;AI+%7C+IIoT+%7C+Autonomous+Systems+Specialist)](https://git.io/typing-svg)
+```
+██████╗  █████╗ ██╗   ██╗███╗   ██╗ █████╗ ██╗  ██╗
+██╔══██╗██╔══██╗██║   ██║████╗  ██║██╔══██╗██║ ██╔╝
+██████╔╝███████║██║   ██║██╔██╗ ██║███████║█████╔╝
+██╔══██╗██╔══██║██║   ██║██║╚██╗██║██╔══██║██╔═██╗
+██║  ██║██║  ██║╚██████╔╝██║ ╚████║██║  ██║██║  ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-<img src="https://komarev.com/ghpvc/?username=raunakchyy&style=flat-square&color=2D9CDB&label=Profile+Views" alt="Profile Views" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=750&lines=Robotics+%26+Embedded+Systems+Engineer;India's+Fastest+Line+Navigation+Robot+%E2%80%94+Builder;5th+Place+Globally+%7C+Maze+Solver+%7C+Estonia+2024;1500%2B+Students+Trained+%7C+National+Award+Winner;ROS2+%7C+IIoT+%7C+SLAM+%7C+Autonomous+Systems)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://img.shields.io/badge/STATE%20AWARD-WINNER-FFD700?style=for-the-badge&labelColor=0D1117&color=FFD700" />
+<img src="https://img.shields.io/badge/NATIONAL%20AWARD-WINNER-FF6B35?style=for-the-badge&labelColor=0D1117&color=FF6B35" />
+<img src="https://img.shields.io/badge/GLOBAL%20RANK-5th%20%7C%20Estonia-00D4FF?style=for-the-badge&labelColor=0D1117&color=00D4FF" />
+<img src="https://img.shields.io/badge/STUDENTS%20TRAINED-1500%2B-7CFC00?style=for-the-badge&labelColor=0D1117&color=7CFC00" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=raunakchyy&style=flat-square&color=00D4FF&label=Profile+Views" />
 
 </div>
 
----
-
-## About
-
-Electronics and Telecommunications Engineer with deep expertise in Robotics, Embedded Systems, IIoT, and Autonomous Navigation. Recognized with State and National Awards for excellence in robotics. Experienced across research, hardware integration, AI-driven control systems, and large-scale technical training. Currently contributing to advanced robotics product development and education at Botics Ed Tech Pvt. Ltd.
+<br>
 
 ---
 
-## Technical Skills
+## `$ whoami`
 
-### Core Domains
+```yaml
+name        : Raunak Choudhary
+title       : Robotics & Embedded Systems Engineer
+location    : Pune, Maharashtra, India
+degree      : B.E. Electronics & Telecommunications — SPPU (CGPA 7.48, First Class 2025)
+focus       : Autonomous Robots | IIoT | AI/ML in Robotics | ROS2 | Embedded Systems
+status      : Research & Product Development @ Botics Ed Tech Pvt. Ltd.
+recognition : State Award + National Award in Robotics & IoT
+superpower  : Building India-first autonomous systems that compete globally
+```
 
-![Robotics](https://img.shields.io/badge/Robotics-Hardware%20Integration-2D9CDB?style=flat-square)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-Microcontrollers-2D9CDB?style=flat-square)
-![IIoT](https://img.shields.io/badge/IIoT-Industrial%20Internet%20of%20Things-2D9CDB?style=flat-square)
-![Control Systems](https://img.shields.io/badge/Control_Systems-PID%20%7C%20MPC%20%7C%20Kalman-2D9CDB?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-Perception-2D9CDB?style=flat-square)
-![SLAM](https://img.shields.io/badge/SLAM-Autonomous%20Navigation-2D9CDB?style=flat-square)
-![AMR](https://img.shields.io/badge/AMR-Autonomous%20Mobile%20Robots-2D9CDB?style=flat-square)
-![AGV](https://img.shields.io/badge/AGV-Automated%20Guided%20Vehicles-2D9CDB?style=flat-square)
+> Engineer who builds robots that **rank globally**, trains the next generation of roboticists, and converts lab prototypes into **market-ready products**.
 
-### Hardware Platforms
+<br>
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![PIC](https://img.shields.io/badge/PIC16F877A-ED1C24?style=flat-square)
-![AVR](https://img.shields.io/badge/AVR_ATmega328P-1B5E20?style=flat-square)
-![STM32F405](https://img.shields.io/badge/STM32F405RG-03234B?style=flat-square)
+---
 
-### Programming & AI Tools
+## `$ cat achievements.log` — The Highlight Reel
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+<div align="center">
+
+| # | Achievement | Impact |
+|---|---|---|
+| 🥇 | **India's First 16x16 Autonomous Maze Solver** | Competed in Estonia — **5th Place Globally, 8th Worldwide** |
+| 🚀 | **India's Fastest Line Navigation Robot** | Custom 16-array sensor — **First of its kind in India** |
+| 🏆 | **State & National Award Winner** | Robotics & IoT — Recognized at government level |
+| 👨‍🏫 | **1,500+ Students & Professionals Trained** | Across workshops, colleges & corporate programs |
+| 🏭 | **Prototype → Market-Ready Product** | Converted R&D builds into commercial robotics kits |
+| 🎓 | **Captain — Team Robotics SKNCOE** | Led 60+ member team across 4 years of competitions |
+| 🤝 | **Certified by NVIDIA, Toyota, Microsoft, Deloitte** | Industry recognition across 12+ global companies |
+| 🏫 | **Certified by IIT Bombay, IIT Patna, COEP & more** | 14+ premier institution recognitions |
+
+</div>
+
+<br>
+
+---
+
+## `$ ls ./competitions/`
+
+### Estonia — International Robotics Competition 2024
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  AUTONOMOUS MAZE SOLVER — 16x16 Grid                        │
+│                                                             │
+│  Global Rank  : #5                                          │
+│  World Rank   : #8                                          │
+│  Achievement  : India's FIRST robot to solve 16x16 maze     │
+│                 in an international competition             │
+│                                                             │
+│  Tech Stack   : A* + Dijkstra Pathfinding | LIDAR           │
+│                 Ultrasonic Sensors | SLAM | Localization    │
+│                 Dynamic Path Correction | Obstacle Detect   │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### India's Fastest Autonomous Line Navigation Robot
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  LINE NAVIGATION — 16-Array Custom Sensor System            │
+│                                                             │
+│  Status       : India's FASTEST — New National Benchmark   │
+│  Sensor Array : 16-sensor custom design (First in India)   │
+│                                                             │
+│  Tech Stack   : Advanced PID Control | Sensor Fusion        │
+│                 SLAM | Motion Planning | Real-time Feedback │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+---
+
+## `$ cat projects.json`
+
+```json
+[
+  {
+    "name": "Universal WheelieBot",
+    "stack": ["ROS 2", "Navigation", "Manipulation", "Perception"],
+    "type": "Advanced Mobile Robot"
+  },
+  {
+    "name": "Flexible Manufacturing System",
+    "stack": ["IIoT", "Color Sorting", "Metal Detection", "Mock Drilling"],
+    "type": "Industrial Automation"
+  },
+  {
+    "name": "Face Detection & Recognition Robot",
+    "stack": ["OpenCV", "TensorFlow", "Camera Vision"],
+    "type": "Computer Vision"
+  },
+  {
+    "name": "Bipedal Humanoid Robot",
+    "stack": ["Raspberry Pi", "Servo Control", "Motion Planning"],
+    "type": "Humanoid Robotics"
+  },
+  {
+    "name": "Pathfinder Robot (AMR)",
+    "stack": ["AMR Navigation", "SLAM", "Pathfinding"],
+    "type": "Autonomous Navigation"
+  },
+  {
+    "name": "Home Automation Kit",
+    "stack": ["ESP32", "MQTT", "IoT", "WiFi"],
+    "type": "Smart Home / IIoT"
+  },
+  {
+    "name": "30+ Embedded Systems Projects",
+    "stack": ["Arduino", "Raspberry Pi", "STM32", "Sensors"],
+    "type": "Embedded Systems"
+  }
+]
+```
+
+<br>
+
+---
+
+## `$ ./skills --list-all`
+
+### Hardware & Platforms
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![PIC](https://img.shields.io/badge/PIC16F877A-ED1C24?style=for-the-badge)
+![AVR](https://img.shields.io/badge/AVR%20ATmega328P-1B5E20?style=for-the-badge)
+
+### Robotics & AI Stack
+
+![ROS2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SLAM](https://img.shields.io/badge/SLAM-Mapping%20%26%20Localization-00D4FF?style=for-the-badge)
+![Control](https://img.shields.io/badge/PID%20%7C%20MPC%20%7C%20Kalman-Control%20Systems-7CFC00?style=for-the-badge)
 
 ### Communication Protocols
 
-![I2C](https://img.shields.io/badge/I2C-555555?style=flat-square)
-![SPI](https://img.shields.io/badge/SPI-555555?style=flat-square)
-![UART](https://img.shields.io/badge/UART-555555?style=flat-square)
-![CAN](https://img.shields.io/badge/CAN-555555?style=flat-square)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
-![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=flat-square&logo=zigbee&logoColor=white)
-![LoRa](https://img.shields.io/badge/LoRa%20%7C%20LoRaWAN-0D47A1?style=flat-square)
-![WiFi](https://img.shields.io/badge/Wi--Fi%20%7C%205G-1565C0?style=flat-square)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-37474F?style=flat-square)
-![Bluetooth](https://img.shields.io/badge/Bluetooth-0A3D91?style=flat-square&logo=bluetooth&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0A3D91?style=for-the-badge&logo=bluetooth&logoColor=white)
+![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=for-the-badge&logo=zigbee&logoColor=white)
+![Protocols](https://img.shields.io/badge/I2C%20%7C%20SPI%20%7C%20UART%20%7C%20CAN-555555?style=for-the-badge)
+![LoRa](https://img.shields.io/badge/LoRa%20%7C%20LoRaWAN-0D47A1?style=for-the-badge)
+![Network](https://img.shields.io/badge/WiFi%20%7C%205G%20%7C%20TCP--IP-1565C0?style=for-the-badge)
 
 ### Operating Systems
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+<br>
 
 ---
 
-## Featured Projects
+## `$ cat experience.txt`
 
-### India's Fastest Autonomous Line Navigation Robot
-> Custom 16-array sensor system — first of its kind in India
+```
+[ CURRENT ]  Botics Ed Tech Pvt. Ltd.          Apr 2025 – Present
+             Research & Product Dev Specialist / Training Expert
+             ↳ R&D of autonomous robots & intelligent learning platforms
+             ↳ 1,500+ students trained | curriculum + documentation created
+             ↳ Prototypes converted to commercial market-ready products
 
-- Engineered India's fastest autonomous line-following robot with a custom-designed 16-sensor array, representing a first in the country.
-- Applied advanced PID control for real-time speed regulation and precision path adjustment.
-- Integrated high-speed sensors with optimized SLAM techniques for accurate, high-speed navigation.
-- Employed sensor fusion, motion planning algorithms, and dynamic feedback loops to ensure consistent performance under variable conditions.
+[ 2024 ]     Robotex India                      Jan 2024 – Mar 2025
+             R&D Specialist / Technical Specialist (Certified)
+             ↳ Competition-grade autonomous robot design & development
+             ↳ ROS2, IIoT, AI integration | Navigation & control optimization
+             ↳ Student mentoring & technical training
 
----
+[ 2023 ]     SVR Robotics Pvt. Ltd.             Jul 2023 – Dec 2023
+             Robotics Developer Intern (Certified)
+             ↳ SCARA & Articulated robot programming with AI/ML
+             ↳ Dobot & educational robot AI/ML capability integration
+             ↳ IoT connectivity optimization for robotic applications
 
-### Autonomous Maze Solver Robot — Estonia International Competition
-> 5th Place Globally | 8th Place Worldwide | India's First 16x16 Maze Solver
+[ 2023 ]     Fired Primed Pvt. Ltd.             Jan 2023 – Jun 2023
+             Electronics Engineer Intern (Certified)
+             ↳ Fire alarm controller redesign → 15% faster response time
+             ↳ Gas detection system: sensitivity + data logging improvements
+             ↳ Full R&D cycle: design → test → validate → deploy
+```
 
-- Developed India's first autonomous maze-solving robot to compete and rank in an international competition in Estonia.
-- Designed and implemented A* and Dijkstra's pathfinding algorithms for optimal real-time decision-making.
-- Integrated LIDAR and ultrasonic sensors for live environmental mapping and precise navigation.
-- Engineered localization, obstacle detection, and dynamic path correction modules for reliable maze traversal.
-- Demonstrated applicability of autonomous systems in industrial logistics and real-time automation.
-
----
-
-### Additional R&D Projects
-
-| Project | Technologies |
-|---|---|
-| Flexible Manufacturing System with IIoT | IIoT, Color & Metal Sorting, Mock Drilling |
-| Universal WheelieBot | ROS 2, Navigation, Manipulation, Perception |
-| Face Detection and Recognition Robot | OpenCV, Camera Vision |
-| Pathfinder Robot (AMR) | Autonomous Mobile Robot Navigation |
-| Maze & Path-Following Robot (AGV) | Automated Guided Vehicle Technology |
-| Bipedal Humanoid Robot | Raspberry Pi, Complex Motion Control |
-| Home Automation Kit | ESP32, IoT, Remote Appliance Control |
-| Embedded Systems Projects (30+) | Arduino, Raspberry Pi, Sensors |
+<br>
 
 ---
 
-## Professional Experience
-
-### Research & Product Development Specialist / Training Expert
-**Botics Ed Tech Pvt. Ltd. — Pune, MH, India** | April 2025 – Present
-
-- Leading research and development of advanced robotics systems for educational and industrial applications, including autonomous robots, automation kits, and intelligent learning platforms.
-- Designing and optimizing mechanical structures, modular robotic systems, and sensor-integrated prototypes for high performance and manufacturability.
-- Conducted hands-on technical training for 1,500+ students and professionals; developed curriculum and supporting technical documentation.
-- Successfully transitioned prototype systems into market-ready products, expanding the company's product portfolio.
-
----
-
-### Research & Development Specialist / Technical Specialist
-**Robotex India — Pune, MH, India** | January 2024 – March 2025 | Certified
-
-- Designed and developed autonomous robots for national and international competitions, focusing on efficient and innovative robotic systems.
-- Built advanced prototypes; refined navigation and control algorithms; optimized hardware and software integration.
-- Actively implemented ROS 2, IIoT, and AI technologies to advance automation capabilities and system performance.
-- Mentored and trained students in advanced robot design, prototyping, and innovation practices.
-
----
-
-### Robotics Developer Intern
-**SVR Robotics Pvt. Ltd. — Pune, MH, India** | July 2023 – December 2023 | Certified
-
-- Applied STEM and IoT/AI-ML expertise to optimize robotic connectivity and system performance.
-- Programmed SCARA and Articulated robots using AI/ML algorithms for enhanced precision and adaptability.
-- Integrated AI/ML capabilities into Dobot and educational robots.
-- Collaborated in multidisciplinary teams to troubleshoot and improve overall system reliability.
-
----
-
-### Electronics Engineer Intern
-**Fired Primed Pvt. Ltd. — Navi Mumbai, MH, India** | January 2023 – June 2023 | Certified
-
-- Designed and developed a new controller for fire alarm systems, achieving a 15% reduction in response time.
-- Implemented gas detection system features with improved sensitivity and data logging capabilities.
-- Conducted extensive testing and troubleshooting to validate controller reliability.
-- Collaborated with the R&D team to identify future feature enhancements.
-
----
-
-## Technical Contributions & Teaching Experience
-
-### Team Robotics SKNCOE — Captain / Mentor
-**Pune, MH, India** | May 2021 – May 2025
-
-- Served as Head of the Robotics Committee for four consecutive years, leading a team of 60+ engineering students.
-- Directed participation in State and National competitions, earning multiple awards and recognitions.
-- Mentored team members over two years, fostering a culture of technical excellence and innovation.
-
----
-
-### Industrial Robotics Workshop — ROS 2
-**Amrutvahini College of Engineering** | 7 Days | In Association with The Robotics Society of India
-
-- Delivered lectures on ROS 2 fundamentals; conducted hands-on sessions with industrial robots for 50+ engineering students.
-- Assisted in debugging, troubleshooting, and developing instructional materials aligned with current industry standards.
-
----
-
-### Advanced Embedded Systems & IoT Training Workshop
-**Bharati Vidyapeeth (Deemed University)** | 4 Days
-
-- Delivered theoretical and practical sessions on advanced IoT and embedded systems for 50+ students.
-- Guided project development involving microcontrollers, sensors, and actuators.
-
----
-
-### Career Guidance Session — Robotics & Automation
-**Pune Vidhyarthi Griha's College of Engineering and Technology** | 2 Days | Robotex India
-
-- Delivered a structured session on curriculum pathways and career guidance in Robotics & Automation for students and faculty.
-
----
-
-## Certifications & Achievements
-
-### Academic Institutions
-`IIT Bombay` `IIT Patna` `COEP University` `AIT Pune` `PCCOE Pune` `WCOE Sangli` `PVG COET` `PVPIT Pune` `IIIT Pune` `CDGI` +14 more
-
-### Industry & Corporate
-`NVIDIA` `Infosys` `Deloitte` `Toyota` `Microsoft` `Kodacy` `Huawei` `Oracle` `Allison CPD` `Robotex India` +12 more
-
----
-
-## Education
-
-**Bachelor of Engineering — Electronics and Telecommunications Engineering**
-Savitribai Phule Pune University, India | CGPA: 7.48 — First Class | 2025
-
----
-
-## GitHub Analytics
+## `$ cat certifications --industry`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raunakchyy&show_icons=true&theme=default&hide_border=true&title_color=2D9CDB&icon_color=2D9CDB&text_color=24292f&bg_color=ffffff&rank_icon=github" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakchyy&layout=compact&theme=default&hide_border=true&title_color=2D9CDB&text_color=24292f&bg_color=ffffff" height="160" />
+### Industry Certifications
+
+| Company | | Company | |
+|---|---|---|---|
+| ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) | Certified | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Certified |
+| ![Infosys](https://img.shields.io/badge/Infosys-007CC3?style=flat-square) | Certified | ![Deloitte](https://img.shields.io/badge/Deloitte-86BC25?style=flat-square) | Certified |
+| ![Toyota](https://img.shields.io/badge/Toyota-EB0A1E?style=flat-square) | Certified | ![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=flat-square&logo=huawei&logoColor=white) | Certified |
+| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | Certified | ![Robotex](https://img.shields.io/badge/Robotex%20India-00D4FF?style=flat-square) | Certified |
+
+`Kodacy` • `Allison CPD` • **+12 more industry certifications**
+
+### Academic Certifications
+
+`IIT Bombay` • `IIT Patna` • `COEP University` • `AIT Pune` • `PCCOE Pune`
+
+`WCOE Sangli` • `PVG COET` • `PVPIT Pune` • `IIIT Pune` • `CDGI` • **+14 more**
+
+</div>
+
+<br>
+
+---
+
+## `$ git log --oneline --teaching`
+
+```
+7f3a2c1  [Amrutvahini COE]        7-Day ROS2 Industrial Robotics Workshop    → 50+ students
+4d8b1e9  [Bharati Vidyapeeth]     4-Day Advanced Embedded Systems & IoT      → 50+ students
+2c9f3a7  [PVGCOET]                2-Day Career Guidance — Robotics/Automation → students + faculty
+a1b4d8e  [SKNCOE — 4 Years]       Robotics Club Captain & Mentor             → 60+ member team
+9e7c2f1  [Botics Ed Tech]         Ongoing Training Programs                  → 1500+ total trained
+```
+
+<br>
+
+---
+
+## `$ github-stats --user raunakchyy`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raunakchyy&show_icons=true&theme=github_dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakchyy&layout=compact&theme=github_dark&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=raunakchyy&theme=default&hide_border=true&ring=2D9CDB&fire=2D9CDB&currStreakLabel=2D9CDB" height="150" />
+<img src="https://streak-stats.demolab.com?user=raunakchyy&theme=github-dark-blue&hide_border=true&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=00D4FF" width="55%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raunakchyy&bg_color=ffffff&color=2D9CDB&line=2D9CDB&point=24292f&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raunakchyy&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FF6B35&area=true&hide_border=true" width="100%" />
 
 </div>
+
+<br>
 
 ---
 
-## Contact
+## `$ ping raunak`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-cyashwnat910%40gmail.com-2D9CDB?style=flat-square&logo=gmail&logoColor=white)](mailto:cyashwnat910@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raunakchyy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raunakchyy/)
-[![Location](https://img.shields.io/badge/Location-Pune%2C%20Maharashtra%2C%20India-555555?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Pune,Maharashtra)
-[![Phone](https://img.shields.io/badge/Phone-9262754961-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919262754961)
+[![Email](https://img.shields.io/badge/Gmail-cyashwnat910%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyashwnat910@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raunakchyy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raunakchyy/)
+[![Phone](https://img.shields.io/badge/WhatsApp-9262754961-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919262754961)
+[![Location](https://img.shields.io/badge/Pune-Maharashtra%2C%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Pune)
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
-<sub>All information presented is accurate and verified. Open to research collaborations, robotics opportunities, and technical consultations.</sub>
+
+```
+Open to: Research Collaborations | Robotics Consulting | Technical Mentoring | Competition Builds
+```
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer)
+
 </div>
