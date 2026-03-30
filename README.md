@@ -232,21 +232,6 @@ Superpower  : Building India-first autonomous systems that compete globally
 
 </p>
 
-##  Tech Stack & Tooling
-
-<p align="">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
-</p>
-
----
-<p align="center">
-  <i>Developed with precision by Raunak Choudhary</i>
-</p>
-
 
 ## `$ Certifications --industry`
 
