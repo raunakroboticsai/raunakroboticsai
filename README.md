@@ -230,17 +230,6 @@ Superpower  : Building India-first autonomous systems that compete globally
   </tr>
 </table>
 
----
-
-## CORE TECHNICAL COMPETENCIES
-<p align="center">
-  <img src="https://img.shields.io/badge/LANGUAGES-C++_|_PYTHON_|_C-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/HARDWARE-ESP32_|_ARDUINO_|_RASPBERRY_PI-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/PLATFORMS-ROS_2_|_OPENCV_|_IIOT-black?style=flat-square" />
-</p>
-
-<p align="center">
-  <font color="#aaaaaa">Documented and Maintained by Raunak Choudhary</font>
 </p>
 
 ##  Tech Stack & Tooling
