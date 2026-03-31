@@ -23,7 +23,7 @@
 Name        : Raunak Choudhary
 Title       : Robotics & AI | Embedded Systems Engineer
 Location    : Pune, Maharashtra, India
-Degree      : B.E. Electronics & Telecommunications — SPPU (CGPA 7.48, First Class)
+Degree      : Bachelor of Engineering (Electronics and Telecommunications Engineering)
 Focus       : Autonomous Robots | IIoT | AI/ML in Robotics | ROS2 | Embedded Systems
 Status      : Research & Product Development @ Botics Ed Tech Pvt. Ltd.
 Recognition : State Award + National Award in Robotics & IoT
