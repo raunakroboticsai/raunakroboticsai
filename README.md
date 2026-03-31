@@ -336,10 +336,91 @@ Leadership & Training            ███████████████�
 
 ### 🏛️ Academic Institution Certifications
 
-```
-IIT Bombay  |  IIT Patna  |  COEP University  |  AIT Pune  |  PCCOE Pune
-WCOE Sangli  |  PVG COET  |  PVPIT Pune  |  IIIT Pune  |  CDGI  |  +20 More
-```
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#0d1a2e" width="25%">
+      <br>
+      🏛️ <strong>IIT Bombay</strong>
+      <br>
+      <img src="https://img.shields.io/badge/✅%20CERTIFIED-IIT%20Bombay-00D4FF?style=flat-square"/>
+      <br><br>
+    </td>
+    <td align="center" bgcolor="#0d2a0d" width="25%">
+      <br>
+      🏛️ <strong>IIT Patna</strong>
+      <br>
+      <img src="https://img.shields.io/badge/✅%20CERTIFIED-IIT%20Patna-7CFC00?style=flat-square"/>
+      <br><br>
+    </td>
+    <td align="center" bgcolor="#2a0d1a" width="25%">
+      <br>
+      🏛️ <strong>COEP University</strong>
+      <br>
+      <img src="https://img.shields.io/badge/✅%20CERTIFIED-COEP%20University-FF6B35?style=flat-square"/>
+      <br><br>
+    </td>
+    <td align="center" bgcolor="#1a1a0d" width="25%">
+      <br>
+      🏛️ <strong>AIT Pune</strong>
+      <br>
+      <img src="https://img.shields.io/badge/✅%20CERTIFIED-AIT%20Pune-FFD700?style=flat-square"/>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#1a0d2e" width="25%">
+      <br>
+      🏛️ <strong>PCCOE Pune</strong>
+      <br>
+      <img src="https://img.shields.io/badge/✅%20CERTIFIED-PCCOE%20Pune-A855F7?style=flat-square"/>
+      <br><br>
+    </td>
+    <td align="center" bgcolor="#0d2a2a" width="25%">
+      <br>
+      🏛️ <strong>WCOE Sangli</strong>
+      <br>
+      <img src="https://img.shields.io/badge/✅%20CERTIFIED-WCOE%20Sangli-00BCD4?style=flat-square"/>
+      <br><br>
+    </td>
+    <td align="center" bgcolor="#2a1a0d" width="25%">
+      <br>
+      🏛️ <strong>PVG COET</strong>
+      <br>
+      <img src="https://img.shields.io/badge/✅%20CERTIFIED-PVG%20COET-FF9800?style=flat-square"/>
+      <br><br>
+    </td>
+    <td align="center" bgcolor="#0d1a1a" width="25%">
+      <br>
+      🏛️ <strong>PVPIT Pune</strong>
+      <br>
+      <img src="https://img.shields.io/badge/✅%20CERTIFIED-PVPIT%20Pune-4CAF50?style=flat-square"/>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#1a2a0d" width="25%">
+      <br>
+      🏛️ <strong>IIIT Pune</strong>
+      <br>
+      <img src="https://img.shields.io/badge/✅%20CERTIFIED-IIIT%20Pune-8BC34A?style=flat-square"/>
+      <br><br>
+    </td>
+    <td align="center" bgcolor="#2a0d0d" width="25%">
+      <br>
+      🏛️ <strong>CDGI</strong>
+      <br>
+      <img src="https://img.shields.io/badge/✅%20CERTIFIED-CDGI-F44336?style=flat-square"/>
+      <br><br>
+    </td>
+    <td align="center" bgcolor="#0d0d2a" colspan="2">
+      <br>
+      🏫 <strong>+ 20 More Premier Institutions</strong>
+      <br>
+      <img src="https://img.shields.io/badge/✅%20CERTIFIED-20%2B%20Institutions-FFD700?style=for-the-badge"/>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 </div>
 
