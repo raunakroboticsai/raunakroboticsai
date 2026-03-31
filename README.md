@@ -430,13 +430,47 @@ Leadership & Training            ███████████████�
 
 <div align="center">
 
-```
-✅  Research Collaborations
-✅  Robotics Consulting
-✅  Technical Mentoring
-✅  Competition Builds
-✅  Industrial Automation Projects
-```
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#0d1a2e" width="33%">
+      <br>
+      🔬 <strong>Research Collaborations</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/✅%20OPEN-Research%20Collaborations-00D4FF?style=for-the-badge&labelColor=0d1117"/>
+      <br><br>
+    </td>
+    <td align="center" bgcolor="#0d2a0d" width="33%">
+      <br>
+      🤖 <strong>Robotics Consulting</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/✅%20OPEN-Robotics%20Consulting-7CFC00?style=for-the-badge&labelColor=0d1117"/>
+      <br><br>
+    </td>
+    <td align="center" bgcolor="#2a0d1a" width="33%">
+      <br>
+      👨‍🏫 <strong>Technical Mentoring</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/✅%20OPEN-Technical%20Mentoring-FF6B35?style=for-the-badge&labelColor=0d1117"/>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#1a1a0d" width="50%">
+      <br>
+      🏆 <strong>Competition Builds</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/✅%20OPEN-Competition%20Builds-FFD700?style=for-the-badge&labelColor=0d1117"/>
+      <br><br>
+    </td>
+    <td align="center" bgcolor="#1a0d2e" colspan="2">
+      <br>
+      🏭 <strong>Industrial Automation Projects</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/✅%20OPEN-Industrial%20Automation%20Projects-A855F7?style=for-the-badge&labelColor=0d1117"/>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 <br>
 
