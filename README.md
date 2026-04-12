@@ -21,7 +21,7 @@
 
 ```yaml
 Name        : Raunak Choudhary
-Title       : Robotics & AI | Embedded Systems Engineer
+Specialisation  : Robotics & AI |Embedded Systems Engineer
 Location    : Pune, Maharashtra, India
 Degree      : Bachelor of Engineering (Electronics and Telecommunications Engineering)
 Focus       : Autonomous Robots | IIoT | AI/ML in Robotics | ROS2 | Embedded Systems
