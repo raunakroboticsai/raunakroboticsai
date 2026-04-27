@@ -142,6 +142,8 @@ Superpower  : Building India-first autonomous systems that compete globally
 ![AMR](https://img.shields.io/badge/AMR-Autonomous%20Mobile%20Robots-2D9CDB?style=flat-square)
 ![AGV](https://img.shields.io/badge/AGV-Automated%20Guided%20Vehicles-2D9CDB?style=flat-square)
 
+<img width="3200" height="2400" alt="Complete Area Circle Chart Graph" src="https://github.com/user-attachments/assets/b32d4902-1112-46ec-8514-40305fab7a94" />
+
 ### 🔩 Hardware Platforms
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
