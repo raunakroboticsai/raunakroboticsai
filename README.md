@@ -49,6 +49,8 @@ Superpower  : Building India-first autonomous systems that compete globally
 | 🤝 | **Certified by NVIDIA, Toyota, Microsoft, Deloitte** | Industry recognition across 12+ global companies |
 | 🏛️ | **Certified by IIT Bombay, IIT Patna, COEP & more** | 14+ premier institution recognitions |
 
+<img width="1024" height="1536" alt="mrchampion" src="https://github.com/user-attachments/assets/87e97dad-7521-418e-9dc1-2f14d10cabc7" />
+
 </div>
 
 ---
