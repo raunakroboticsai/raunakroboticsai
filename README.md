@@ -1,350 +1,221 @@
 <div align="center">
 
-<img width="100%" alt="divider" src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0F19,100:0B0F19&height=3&section=header"/>
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=3000&pause=1200&color=E6EDF3&center=true&vCenter=true&width=820&lines=RAUNAK+CHOUDHARY)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Robotics+%26+Embedded+Systems+Engineer;AI+%2F+ML+%C2%B7+IIoT+%C2%B7+Autonomous+Navigation+%C2%B7+ROS2)](https://git.io/typing-svg)
-
-<br>
-
-<sub>PUNE, INDIA &nbsp;·&nbsp; RESEARCH &amp; PRODUCT DEVELOPMENT @ BOTICS EDTECH &nbsp;·&nbsp; OPEN TO COLLABORATION</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0A0A,100:0A0A0A&height=2&section=header"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATE_AWARD-WINNER-e6edf3?style=for-the-badge&labelColor=0B0F19&color=161B22" height="30"/>&nbsp;<img src="https://img.shields.io/badge/NATIONAL_AWARD-WINNER-e6edf3?style=for-the-badge&labelColor=0B0F19&color=161B22" height="30"/>&nbsp;<img src="https://img.shields.io/badge/GLOBAL_RANK-%235%20·%20ESTONIA-38BDF8?style=for-the-badge&labelColor=0B0F19" height="30"/>&nbsp;<img src="https://img.shields.io/badge/STUDENTS_TRAINED-1%2C500%2B-e6edf3?style=for-the-badge&labelColor=0B0F19&color=161B22" height="30"/>
+<h1 align="center" style="font-weight:600; letter-spacing:2px;">RAUNAK&nbsp;&nbsp;CHOUDHARY</h1>
+
+<p align="center">
+<sub><strong>ROBOTICS &amp; EMBEDDED SYSTEMS ENGINEER</strong></sub><br>
+<sub>Autonomous Navigation · Industrial IoT · Applied AI/ML</sub>
+</p>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0F19,100:0B0F19&height=2&section=header"/>
+<sub>
+PUNE, INDIA &nbsp;&nbsp;|&nbsp;&nbsp; B.E., ELECTRONICS &amp; TELECOMMUNICATIONS ENGINEERING &nbsp;&nbsp;|&nbsp;&nbsp; RESEARCH &amp; PRODUCT DEVELOPMENT, BOTICS ED TECH PVT. LTD.
+</sub>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="240">
+<sub><strong>STATE AWARD</strong></sub><br><sub>Robotics &amp; IoT</sub>
+</td>
+<td align="center" width="240">
+<sub><strong>NATIONAL AWARD</strong></sub><br><sub>Robotics &amp; IoT</sub>
+</td>
+<td align="center" width="240">
+<sub><strong>GLOBAL RANK № 5</strong></sub><br><sub>Robotex, Estonia</sub>
+</td>
+<td align="center" width="240">
+<sub><strong>1,500+ ENGINEERS TRAINED</strong></sub><br><sub>Workshops &amp; industry programs</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0A0A,100:0A0A0A&height=2&section=header"/>
 
 </div>
 
 <br>
 
-## `01` — Overview
+## Profile
 
-```yaml
-name          : Raunak Choudhary
-role          : Robotics & AI | Embedded Systems Engineer
-location      : Pune, Maharashtra, India
-education     : B.E., Electronics & Telecommunications Engineering
-focus         : Autonomous Robots · IIoT · AI/ML in Robotics · ROS2 · Embedded Systems
-current       : Research & Product Development @ Botics Ed Tech Pvt. Ltd.
-recognition   : State Award + National Award — Robotics & IoT
-mission       : Building India-first autonomous systems that compete globally,
-                training the next generation of roboticists, and converting
-                lab prototypes into market-ready products.
+Robotics and embedded systems engineer specializing in autonomous navigation, industrial IoT, and the integration of AI/ML into physical systems. Built and led the development of India's fastest line-navigation robot and the country's first internationally-ranked autonomous maze-solving robot, competing at Robotex International in Estonia. Work spans the full stack of a robotics product — control systems, sensor fusion, embedded firmware, and ROS2-based navigation — from early prototype through to market-ready hardware. In parallel, has trained over 1,500 students and professionals in robotics and automation, and holds technical recognition from NVIDIA, Microsoft, Toyota, Deloitte, and 14 premier academic institutions including IIT Bombay and IIT Patna.
+
+<br>
+
+## Recognition
+
+<table width="100%">
+<tr><th align="left" width="30%">Award</th><th align="left">Detail</th></tr>
+<tr><td>State Award — Robotics &amp; IoT</td><td>Government-level recognition for autonomous systems engineering</td></tr>
+<tr><td>National Award — Robotics &amp; IoT</td><td>National-level recognition for autonomous systems engineering</td></tr>
+<tr><td>Global Rank #5 · World Rank #8</td><td>Robotex International, Estonia — 16×16 autonomous maze solver, India's first entry at this level</td></tr>
+<tr><td>India's Fastest Line Navigation Robot</td><td>Verified national benchmark; custom 16-sensor proprietary array</td></tr>
+<tr><td>Team Captain, Robotics Society — SKNCOE</td><td>Led a 60+ member technical team across four competitive seasons (2021–2025)</td></tr>
+<tr><td>Prototype-to-Product Transition</td><td>Converted R&amp;D-stage robotics builds into commercial, market-ready kits</td></tr>
+</table>
+
+<br>
+
+## Selected Competition Work
+
+**Autonomous Maze Solver — Robotex International, Estonia**
+16×16 grid autonomous navigation system. India's first entry at this competitive tier, placing 5th globally and 8th worldwide.
+
+&nbsp;&nbsp;`A* Search` &nbsp;`SLAM` &nbsp;`Dijkstra's Algorithm` &nbsp;`LIDAR Integration` &nbsp;`Ultrasonic Sensor Fusion` &nbsp;`Dynamic Path Correction`
+
+**Line Navigation Robot — National Benchmark**
+Custom-engineered 16-sensor array with high-frequency PID control, verified as the fastest autonomous line-navigation system built in India.
+
+&nbsp;&nbsp;`Custom Sensor Array` &nbsp;`Advanced PID Control` &nbsp;`Microsecond-Latency Feedback Loops`
+
+<br>
+
+## Technical Capabilities
+
+```text
+Robotics Hardware Integration      ████████████████████  95%
+Embedded Systems & Microcontrollers ████████████████████  95%
+Technical Leadership & Training     ████████████████████  95%
+Electronics & Circuit Design        ███████████████████░  92%
+ROS2 & Autonomous Navigation        ██████████████████░░  90%
+Control Systems — PID / MPC / Kalman ██████████████████░░  88%
+SLAM & Motion Planning               █████████████████░░░  85%
+Industrial IoT & Automation          █████████████████░░░  85%
+Wireless Communications & Networking █████████████████░░░  85%
+Applied AI / Machine Learning        ████████████████░░░░  80%
+Computer Vision                      ████████████████░░░░  80%
 ```
 
-<br>
-
-## `02` — Highlights
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**India's First 16×16 Autonomous Maze Solver**
-Competed internationally in Estonia — placed **5th globally**, **8th worldwide**.
-
-**India's Fastest Line Navigation Robot**
-Custom 16-sensor array — the first system of its kind built in India.
-
-**State &amp; National Award Winner**
-Robotics &amp; IoT — recognized at the government level.
-
-</td>
-<td width="50%" valign="top">
-
-**1,500+ Students &amp; Professionals Trained**
-Across university workshops, colleges, and corporate programs.
-
-**Prototype → Market-Ready Product**
-Converted R&amp;D builds into commercial robotics kits.
-
-**Captain, Team Robotics — SKNCOE**
-Led a 60+ member team across four competitive seasons.
-
-</td>
-</tr>
-</table>
-
 <div align="center">
-<img src="https://img.shields.io/badge/CERTIFIED_BY-NVIDIA_·_TOYOTA_·_MICROSOFT_·_DELOITTE_+_12_MORE-e6edf3?style=flat-square&labelColor=0B0F19" />
-&nbsp;
-<img src="https://img.shields.io/badge/RECOGNIZED_BY-IIT_BOMBAY_·_IIT_PATNA_·_COEP_+_14_MORE-e6edf3?style=flat-square&labelColor=0B0F19" />
+<img width="55%" alt="capability distribution" src="https://github.com/user-attachments/assets/a2e20d5a-28f6-4dcb-983f-629cd23ee07f" />
 </div>
 
 <br>
 
-<div align="center">
-<img width="100%" alt="showcase" src="https://github.com/user-attachments/assets/87e97dad-7521-418e-9dc1-2f14d10cabc7" />
-</div>
+## Technical Stack
 
-<br>
-
-## `03` — International Competitions
-
-<table width="100%">
-<tr>
-<td colspan="2">
-
-### 🇪🇪 Estonia — International Robotics Competition
-**Autonomous Maze Solver · 16×16 Grid**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Global Standings**
-
-| | |
-|---|---|
-| Global Rank | **#5** |
-| World Rank | **#8** |
-| Distinction | India's first 16×16 maze-solving system at international level |
-
-</td>
-<td width="50%" valign="top">
-
-**Technical Stack**
-
-`A* Algorithm` `SLAM` `Dijkstra`
-`LIDAR Integration` `Ultrasonic Fusion`
-`Dynamic Path Correction Logic`
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td colspan="2">
-
-### 🇮🇳 National Performance Benchmark
-**India's Fastest Line Navigation Robot**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Performance**
-
-| | |
-|---|---|
-| Status | Fastest verified autonomous navigation in India |
-| Validation | Verified national speed benchmark |
-
-</td>
-<td width="50%" valign="top">
-
-**Architecture**
-
-`16-Sensor Proprietary Array`
-`Advanced PID Control Systems`
-`Microsecond-Latency Feedback Loops`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## `04` — Technical Stack
-
-**Core Domains**
-
-![Robotics](https://img.shields.io/badge/Robotics-Hardware_Integration-161B22?style=flat-square&labelColor=0B0F19&color=161B22)
-![Embedded](https://img.shields.io/badge/Embedded_Systems-Microcontrollers-161B22?style=flat-square&labelColor=0B0F19&color=161B22)
-![IIoT](https://img.shields.io/badge/IIoT-Industrial_IoT-161B22?style=flat-square&labelColor=0B0F19&color=161B22)
-![Control](https://img.shields.io/badge/Control_Systems-PID_·_MPC_·_Kalman-161B22?style=flat-square&labelColor=0B0F19&color=161B22)
-![CV](https://img.shields.io/badge/Computer_Vision-Perception-161B22?style=flat-square&labelColor=0B0F19&color=161B22)
-![SLAM](https://img.shields.io/badge/SLAM-Autonomous_Navigation-161B22?style=flat-square&labelColor=0B0F19&color=161B22)
-![AMR](https://img.shields.io/badge/AMR-Autonomous_Mobile_Robots-161B22?style=flat-square&labelColor=0B0F19&color=161B22)
-![AGV](https://img.shields.io/badge/AGV-Automated_Guided_Vehicles-161B22?style=flat-square&labelColor=0B0F19&color=161B22)
+**Domains**
+`Robotics — Hardware Integration` `Embedded Systems` `Industrial IoT` `Control Systems (PID / MPC / Kalman)` `Computer Vision` `SLAM` `Autonomous Mobile Robots (AMR)` `Automated Guided Vehicles (AGV)`
 
 **Hardware Platforms**
 
-![Arduino](https://img.shields.io/badge/Arduino-0B0F19?style=flat-square&logo=arduino&logoColor=38BDF8)
-![RaspberryPi](https://img.shields.io/badge/Raspberry_Pi-0B0F19?style=flat-square&logo=raspberrypi&logoColor=38BDF8)
-![ESP32](https://img.shields.io/badge/ESP32-0B0F19?style=flat-square&logo=espressif&logoColor=38BDF8)
-![STM32](https://img.shields.io/badge/STM32-0B0F19?style=flat-square&logo=stmicroelectronics&logoColor=38BDF8)
-![PIC](https://img.shields.io/badge/PIC16F877A-0B0F19?style=flat-square&color=161B22)
-![AVR](https://img.shields.io/badge/AVR_ATmega328P-0B0F19?style=flat-square&color=161B22)
-![STM32F405](https://img.shields.io/badge/STM32F405RG-0B0F19?style=flat-square&color=161B22)
+![Arduino](https://img.shields.io/badge/Arduino-0A0A0A?style=flat-square&logo=arduino&logoColor=cfcfcf)
+![RaspberryPi](https://img.shields.io/badge/Raspberry_Pi-0A0A0A?style=flat-square&logo=raspberrypi&logoColor=cfcfcf)
+![ESP32](https://img.shields.io/badge/ESP32-0A0A0A?style=flat-square&logo=espressif&logoColor=cfcfcf)
+![STM32](https://img.shields.io/badge/STM32-0A0A0A?style=flat-square&logo=stmicroelectronics&logoColor=cfcfcf)
+![PIC](https://img.shields.io/badge/PIC16F877A-0A0A0A?style=flat-square&color=1a1a1a)
+![AVR](https://img.shields.io/badge/AVR_ATmega328P-0A0A0A?style=flat-square&color=1a1a1a)
+![STM32F405](https://img.shields.io/badge/STM32F405RG-0A0A0A?style=flat-square&color=1a1a1a)
 
-**Programming &amp; AI Tools**
+**Software &amp; AI**
 
-![Python](https://img.shields.io/badge/Python-0B0F19?style=flat-square&logo=python&logoColor=38BDF8)
-![C](https://img.shields.io/badge/C-0B0F19?style=flat-square&logo=c&logoColor=38BDF8)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0B0F19?style=flat-square&logo=tensorflow&logoColor=38BDF8)
-![OpenCV](https://img.shields.io/badge/OpenCV-0B0F19?style=flat-square&logo=opencv&logoColor=38BDF8)
-![NumPy](https://img.shields.io/badge/NumPy-0B0F19?style=flat-square&logo=numpy&logoColor=38BDF8)
-![ROS2](https://img.shields.io/badge/ROS_2-0B0F19?style=flat-square&logo=ros&logoColor=38BDF8)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=cfcfcf)
+![C](https://img.shields.io/badge/C-0A0A0A?style=flat-square&logo=c&logoColor=cfcfcf)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0A?style=flat-square&logo=tensorflow&logoColor=cfcfcf)
+![OpenCV](https://img.shields.io/badge/OpenCV-0A0A0A?style=flat-square&logo=opencv&logoColor=cfcfcf)
+![NumPy](https://img.shields.io/badge/NumPy-0A0A0A?style=flat-square&logo=numpy&logoColor=cfcfcf)
+![ROS2](https://img.shields.io/badge/ROS_2-0A0A0A?style=flat-square&logo=ros&logoColor=cfcfcf)
 
 **Communication Protocols**
-
-![I2C](https://img.shields.io/badge/I2C-161B22?style=flat-square) ![SPI](https://img.shields.io/badge/SPI-161B22?style=flat-square) ![UART](https://img.shields.io/badge/UART-161B22?style=flat-square) ![CAN](https://img.shields.io/badge/CAN-161B22?style=flat-square) ![MQTT](https://img.shields.io/badge/MQTT-0B0F19?style=flat-square&logo=eclipse-mosquitto&logoColor=38BDF8) ![Zigbee](https://img.shields.io/badge/Zigbee-0B0F19?style=flat-square&logo=zigbee&logoColor=38BDF8) ![LoRa](https://img.shields.io/badge/LoRa_·_LoRaWAN-161B22?style=flat-square) ![WiFi](https://img.shields.io/badge/Wi--Fi_·_5G-161B22?style=flat-square) ![TCPIP](https://img.shields.io/badge/TCP%2FIP-161B22?style=flat-square) ![Bluetooth](https://img.shields.io/badge/Bluetooth-0B0F19?style=flat-square&logo=bluetooth&logoColor=38BDF8)
+`I2C` `SPI` `UART` `CAN` `MQTT` `Zigbee` `LoRa / LoRaWAN` `Wi-Fi / 5G` `TCP/IP` `Bluetooth`
 
 **Operating Systems**
 
-![Linux](https://img.shields.io/badge/Linux-0B0F19?style=flat-square&logo=linux&logoColor=38BDF8) ![Windows](https://img.shields.io/badge/Windows-0B0F19?style=flat-square&logo=windows&logoColor=38BDF8) ![macOS](https://img.shields.io/badge/macOS-0B0F19?style=flat-square&logo=apple&logoColor=38BDF8) ![Android](https://img.shields.io/badge/Android-0B0F19?style=flat-square&logo=android&logoColor=38BDF8)
+![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=flat-square&logo=linux&logoColor=cfcfcf)
+![Windows](https://img.shields.io/badge/Windows-0A0A0A?style=flat-square&logo=windows&logoColor=cfcfcf)
+![macOS](https://img.shields.io/badge/macOS-0A0A0A?style=flat-square&logo=apple&logoColor=cfcfcf)
+![Android](https://img.shields.io/badge/Android-0A0A0A?style=flat-square&logo=android&logoColor=cfcfcf)
 
 <br>
 
-## `05` — Capability Matrix
-
-```text
-Robotics Hardware Integration    ████████████████████  95%
-Embedded Systems & MCUs          ████████████████████  95%
-Leadership & Training            ████████████████████  95%
-Electronics & Circuit Design     ███████████████████░  92%
-ROS2 & Autonomous Navigation     ██████████████████░░  90%
-Control Systems (PID/MPC/Kalman) ██████████████████░░  88%
-SLAM & Motion Planning           █████████████████░░░  85%
-IIoT & Industrial Automation     █████████████████░░░  85%
-Wireless Comms & Networking      █████████████████░░░  85%
-AI / Machine Learning            ████████████████░░░░  80%
-Computer Vision (OpenCV)         ████████████████░░░░  80%
-```
-
-<div align="center">
-<img width="60%" alt="skills radar" src="https://github.com/user-attachments/assets/a2e20d5a-28f6-4dcb-983f-629cd23ee07f" />
-</div>
-
-<br>
-
-## `06` — Engineering Portfolio
+## Engineering Portfolio
 
 <table width="100%">
+<tr><th align="left" width="26%">Project</th><th align="left">Summary</th><th align="left" width="24%">Stack</th></tr>
 <tr>
-<td width="33%" valign="top">
-
-**🦾 Universal WheelieBot**
-ROS 2 framework for multi-modal navigation and perception with full sensor fusion.
-
-`ROS2` `Python`
-
-</td>
-<td width="33%" valign="top">
-
-**🗺️ Pathfinder AMR**
-Autonomous Mobile Robot featuring dynamic pathfinding and obstacle avoidance.
-
-`SLAM` `A* Algorithm`
-
-</td>
-<td width="33%" valign="top">
-
-**🤖 Bipedal Humanoid**
-Raspberry Pi–based gait analysis and complex movement control system.
-
-`Raspberry Pi` `Gait Analysis`
-
-</td>
+<td><strong>Universal WheelieBot</strong></td>
+<td>ROS 2 framework for multi-modal navigation and perception, with full sensor fusion across the platform</td>
+<td>ROS2, Python</td>
 </tr>
 <tr>
-<td width="33%" valign="top">
-
-**👁️ Computer Vision Bot**
-Real-time facial detection and object tracking using OpenCV and camera arrays.
-
-`OpenCV` `TensorFlow`
-
-</td>
-<td width="33%" valign="top">
-
-**🏭 Industrial AGV**
-Automated Guided Vehicle with maze-solving and path optimization technology.
-
-`AGV` `Dijkstra`
-
-</td>
-<td width="33%" valign="top">
-
-**🔌 Embedded Systems Portfolio**
-30+ Arduino and RPi–based innovative embedded solutions.
-
-`Arduino` `STM32`
-
-</td>
+<td><strong>Pathfinder AMR</strong></td>
+<td>Autonomous Mobile Robot with dynamic pathfinding and real-time obstacle avoidance</td>
+<td>SLAM, A* Algorithm</td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
-
-**🏗️ Flexible Manufacturing System (FMS)**
-IIoT industrial automation — color sorting, metal detection, and precision mock drilling integrated with cloud analytics.
-
-`IIoT` `MQTT` `ESP32`
-
-</td>
-<td valign="top">
-
-**🏠 Smart Home Ecosystem**
-Full-stack IoT solution using ESP32 for cloud-integrated and local automation control.
-
-`ESP32` `Cloud IoT`
-
-</td>
+<td><strong>Bipedal Humanoid</strong></td>
+<td>Raspberry Pi–based gait analysis platform with complex movement control</td>
+<td>Raspberry Pi, Gait Analysis</td>
+</tr>
+<tr>
+<td><strong>Computer Vision Bot</strong></td>
+<td>Real-time facial detection and object tracking across a distributed camera array</td>
+<td>OpenCV, TensorFlow</td>
+</tr>
+<tr>
+<td><strong>Industrial AGV</strong></td>
+<td>Automated Guided Vehicle with maze-solving logic and path-optimization for warehouse-style environments</td>
+<td>AGV, Dijkstra's Algorithm</td>
+</tr>
+<tr>
+<td><strong>Embedded Systems Portfolio</strong></td>
+<td>30+ Arduino and Raspberry Pi–based embedded solutions across sensing, control, and automation</td>
+<td>Arduino, STM32</td>
+</tr>
+<tr>
+<td><strong>Flexible Manufacturing System (FMS)</strong></td>
+<td>IIoT industrial automation line — color sorting, metal detection, and precision mock drilling, integrated with cloud analytics</td>
+<td>IIoT, MQTT, ESP32</td>
+</tr>
+<tr>
+<td><strong>Smart Home Ecosystem</strong></td>
+<td>Full-stack IoT solution built on ESP32, supporting both cloud-integrated and local automation control</td>
+<td>ESP32, Cloud IoT</td>
 </tr>
 </table>
 
 <br>
 
-## `07` — Training &amp; Mentorship
+## Training &amp; Technical Mentorship
 
-| Institution | Program | Students | Duration |
-|---|---|:---:|:---:|
-| Amrutvahini College of Engineering | Industrial Robotics Workshop — ROS 2 *(Robotics Society of India)* | 50+ | 7 Days |
-| Bharati Vidyapeeth (Deemed University) | Advanced Embedded Systems &amp; IoT Workshop | 50+ | 4 Days |
-| PVG's College of Engineering &amp; Technology | Career Guidance — Robotics &amp; Automation *(Robotex-India)* | Students + Faculty | 2 Days |
-| SKNCOE, Pune | Robotics Club Captain &amp; Lead Mentor | 60+ Members | 2021–2025 |
-| Robotex-India | Robotics &amp; AI Training (Educational) | 1,500+ | 2024–2025 |
-| Botics Edtech Pvt. Ltd. | Robotics &amp; Automation Training (Industrial + Educational) | 1,500+ | Ongoing |
+<table width="100%">
+<tr><th align="left">Institution</th><th align="left">Program</th><th align="center">Reach</th><th align="center">Duration</th></tr>
+<tr><td>Amrutvahini College of Engineering</td><td>Industrial Robotics Workshop — ROS 2 <sub>(Robotics Society of India)</sub></td><td align="center">50+</td><td align="center">7 Days</td></tr>
+<tr><td>Bharati Vidyapeeth (Deemed University)</td><td>Advanced Embedded Systems &amp; IoT Workshop</td><td align="center">50+</td><td align="center">4 Days</td></tr>
+<tr><td>PVG's College of Engineering &amp; Technology</td><td>Career Guidance — Robotics &amp; Automation <sub>(Robotex-India)</sub></td><td align="center">Students + Faculty</td><td align="center">2 Days</td></tr>
+<tr><td>SKNCOE, Pune</td><td>Robotics Club — Captain &amp; Lead Mentor</td><td align="center">60+ Members</td><td align="center">2021–2025</td></tr>
+<tr><td>Robotex-India</td><td>Robotics &amp; AI Training (Educational)</td><td align="center">1,500+</td><td align="center">2024–2025</td></tr>
+<tr><td>Botics Ed Tech Pvt. Ltd.</td><td>Robotics &amp; Automation Training (Industrial + Educational)</td><td align="center">1,500+</td><td align="center">Ongoing</td></tr>
+</table>
 
 <br>
 
-## `08` — Certifications
+## Certifications
 
 **Industry**
-
-![NVIDIA](https://img.shields.io/badge/NVIDIA-0B0F19?style=flat-square&logo=nvidia&logoColor=76B900) ![Microsoft](https://img.shields.io/badge/Microsoft-0B0F19?style=flat-square&logo=microsoft&logoColor=38BDF8) ![Toyota](https://img.shields.io/badge/Toyota-0B0F19?style=flat-square&color=161B22) ![Deloitte](https://img.shields.io/badge/Deloitte-0B0F19?style=flat-square&color=161B22) ![Infosys](https://img.shields.io/badge/Infosys-0B0F19?style=flat-square&color=161B22) ![Huawei](https://img.shields.io/badge/Huawei-0B0F19?style=flat-square&logo=huawei&logoColor=38BDF8) ![Oracle](https://img.shields.io/badge/Oracle-0B0F19?style=flat-square&logo=oracle&logoColor=38BDF8) ![Robotex](https://img.shields.io/badge/Robotex_India-0B0F19?style=flat-square&color=161B22)
-&nbsp;`+ Kodacy · Allison CPD · 12 more`
+NVIDIA · Microsoft · Toyota · Deloitte · Infosys · Huawei · Oracle · Robotex India · Kodacy · Allison CPD <sub>+ 12 more</sub>
 
 **Academic Institutions**
-
-`IIT Bombay` `IIT Patna` `COEP University` `AIT Pune` `PCCOE Pune` `WCOE Sangli` `PVG COET` `PVPIT Pune` `IIIT Pune` `CDGI`
-&nbsp;`+ 20 more premier institutions`
+IIT Bombay · IIT Patna · COEP University · AIT Pune · PCCOE Pune · WCOE Sangli · PVG COET · PVPIT Pune · IIIT Pune · CDGI <sub>+ 20 more premier institutions</sub>
 
 <br>
 
-## `09` — Open To
+## Open To
 
-<table width="100%">
-<tr>
-<td width="25%" align="center">🔬<br><strong>Research Collaborations</strong></td>
-<td width="25%" align="center">🤖<br><strong>Robotics Consulting</strong></td>
-<td width="25%" align="center">👨‍🏫<br><strong>Technical Mentoring</strong></td>
-<td width="25%" align="center">🏆<br><strong>Competition Builds</strong></td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OPEN-Industrial_Automation_Projects-38BDF8?style=for-the-badge&labelColor=0B0F19" />
-
-</div>
+`Research Collaborations` &nbsp;·&nbsp; `Robotics Consulting` &nbsp;·&nbsp; `Technical Mentoring` &nbsp;·&nbsp; `Competition Builds` &nbsp;·&nbsp; `Industrial Automation Projects`
 
 <br>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0F19,100:0B0F19&height=100&section=footer&text=Let's%20Build%20the%20Future%20of%20Robotics&fontSize=18&fontColor=E6EDF3&fontAlign=50&fontAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0A0A,100:0A0A0A&height=90&section=footer&text=Building%20autonomous%20systems%20that%20compete%20on%20a%20global%20stage&fontSize=15&fontColor=8a8a8a&fontAlign=50&fontAlignY=60"/>
 
-<sub>© Raunak Choudhary — Robotics &amp; Embedded Systems Engineer</sub>
-
+<sub>Raunak Choudhary — Robotics &amp; Embedded Systems Engineer</sub>
 </div>
