@@ -1,35 +1,29 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:12172B,100:0A0A0A&height=160&section=header"/>
-
 <br>
 
 <h1 align="center" style="font-weight:600; letter-spacing:2px;">RAUNAK&nbsp;&nbsp;CHOUDHARY</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Robotics+%26+Embedded+Systems+Engineer;Autonomous+Navigation+Specialist;Industrial+IoT+%26+Applied+AI%2FML;Research+%26+Product+Development+%40+Botics+EdTech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Robotics+%26+Embedded+Systems+Engineer;Autonomous+Navigation+Specialist;Industrial+IoT+%26+Applied+AI%2FML;Research+%26+Product+Development)](https://git.io/typing-svg)
 
 <br>
 
 <sub>
-PUNE, INDIA &nbsp;&nbsp;|&nbsp;&nbsp; B.E., ELECTRONICS &amp; TELECOMMUNICATIONS ENGINEERING &nbsp;&nbsp;|&nbsp;&nbsp; RESEARCH &amp; PRODUCT DEVELOPMENT, BOTICS ED TECH PVT. LTD.
+PUNE, INDIA<br>
+B.E., ELECTRONICS &amp; TELECOMMUNICATIONS ENGINEERING<br>
+RESEARCH &amp; PRODUCT DEVELOPMENT, BOTICS ED TECH PVT. LTD.
 </sub>
 
 <br><br>
 
 <table>
 <tr>
-<td align="center" width="240" bgcolor="#12172B">
-<sub><strong>STATE AWARD</strong></sub><br><sub>Robotics &amp; IoT</sub>
-</td>
-<td align="center" width="240" bgcolor="#12172B">
-<sub><strong>NATIONAL AWARD</strong></sub><br><sub>Robotics &amp; IoT</sub>
-</td>
-<td align="center" width="240" bgcolor="#12172B">
-<sub><strong>GLOBAL RANK № 5</strong></sub><br><sub>Robotex, Estonia</sub>
-</td>
-<td align="center" width="240" bgcolor="#12172B">
-<sub><strong>1,500+ ENGINEERS TRAINED</strong></sub><br><sub>Workshops &amp; industry programs</sub>
-</td>
+<td align="center" bgcolor="#12172B"><sub><strong>STATE AWARD</strong></sub><br><sub>Robotics &amp; IoT</sub></td>
+<td align="center" bgcolor="#12172B"><sub><strong>NATIONAL AWARD</strong></sub><br><sub>Robotics &amp; IoT</sub></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#12172B"><sub><strong>GLOBAL RANK № 5</strong></sub><br><sub>Robotex, Estonia</sub></td>
+<td align="center" bgcolor="#12172B"><sub><strong>1,500+ ENGINEERS TRAINED</strong></sub><br><sub>Workshops &amp; industry programs</sub></td>
 </tr>
 </table>
 
@@ -37,13 +31,21 @@ PUNE, INDIA &nbsp;&nbsp;|&nbsp;&nbsp; B.E., ELECTRONICS &amp; TELECOMMUNICATIONS
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12172B,100:12172B&height=55&section=header&text=PROFILE&fontSize=20&fontColor=38BDF8&fontAlign=5&fontAlignY=60&animation=fadeIn" width="100%"/>
+<table width="100%"><tr><td bgcolor="#12172B">
+
+### <sub><sub>&nbsp;</sub></sub>PROFILE
+
+</td></tr></table>
 
 Robotics and embedded systems engineer specializing in autonomous navigation, industrial IoT, and the integration of AI/ML into physical systems. Built and led the development of India's fastest line-navigation robot and the country's first internationally-ranked autonomous maze-solving robot, competing at Robotex International in Estonia. Work spans the full stack of a robotics product — control systems, sensor fusion, embedded firmware, and ROS2-based navigation — from early prototype through to market-ready hardware. In parallel, has trained over 1,500 students and professionals in robotics and automation, and holds technical recognition from NVIDIA, Microsoft, Toyota, Deloitte, and 14 premier academic institutions including IIT Bombay and IIT Patna.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12172B,100:12172B&height=55&section=header&text=RECOGNITION&fontSize=20&fontColor=38BDF8&fontAlign=5&fontAlignY=60&animation=fadeIn" width="100%"/>
+<table width="100%"><tr><td bgcolor="#12172B">
+
+### <sub><sub>&nbsp;</sub></sub>RECOGNITION
+
+</td></tr></table>
 
 <table width="100%">
 <tr><th align="left" width="30%">Award</th><th align="left">Detail</th></tr>
@@ -57,7 +59,11 @@ Robotics and embedded systems engineer specializing in autonomous navigation, in
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12172B,100:12172B&height=55&section=header&text=SELECTED%20COMPETITION%20WORK&fontSize=20&fontColor=38BDF8&fontAlign=5&fontAlignY=60&animation=fadeIn" width="100%"/>
+<table width="100%"><tr><td bgcolor="#12172B">
+
+### <sub><sub>&nbsp;</sub></sub>SELECTED COMPETITION WORK
+
+</td></tr></table>
 
 <table width="100%">
 <tr>
@@ -69,7 +75,8 @@ Robotics and embedded systems engineer specializing in autonomous navigation, in
 16×16 grid autonomous navigation system. India's first entry at this competitive tier, placing 5th globally and 8th worldwide.
 
 `A* Search` `SLAM` `Dijkstra's Algorithm`
-`LIDAR Integration` `Ultrasonic Sensor Fusion` `Dynamic Path Correction`
+`LIDAR Integration` `Ultrasonic Sensor Fusion`
+`Dynamic Path Correction`
 
 </td>
 <td bgcolor="#141414" width="50%" valign="top">
@@ -88,7 +95,11 @@ Custom-engineered 16-sensor array with high-frequency PID control, verified as t
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12172B,100:12172B&height=55&section=header&text=TECHNICAL%20CAPABILITIES&fontSize=20&fontColor=38BDF8&fontAlign=5&fontAlignY=60&animation=fadeIn" width="100%"/>
+<table width="100%"><tr><td bgcolor="#12172B">
+
+### <sub><sub>&nbsp;</sub></sub>TECHNICAL CAPABILITIES
+
+</td></tr></table>
 
 ```text
 Robotics Hardware Integration      ████████████████████  95%
@@ -110,10 +121,17 @@ Computer Vision                      ██████████████�
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12172B,100:12172B&height=55&section=header&text=TECHNICAL%20STACK&fontSize=20&fontColor=38BDF8&fontAlign=5&fontAlignY=60&animation=fadeIn" width="100%"/>
+<table width="100%"><tr><td bgcolor="#12172B">
+
+### <sub><sub>&nbsp;</sub></sub>TECHNICAL STACK
+
+</td></tr></table>
 
 **Domains**
-`Robotics — Hardware Integration` `Embedded Systems` `Industrial IoT` `Control Systems (PID / MPC / Kalman)` `Computer Vision` `SLAM` `Autonomous Mobile Robots (AMR)` `Automated Guided Vehicles (AGV)`
+
+`Robotics — Hardware Integration` `Embedded Systems` `Industrial IoT`
+`Control Systems (PID / MPC / Kalman)` `Computer Vision` `SLAM`
+`Autonomous Mobile Robots (AMR)` `Automated Guided Vehicles (AGV)`
 
 **Hardware Platforms**
 
@@ -121,6 +139,7 @@ Computer Vision                      ██████████████�
 ![RaspberryPi](https://img.shields.io/badge/Raspberry_Pi-12172B?style=flat-square&logo=raspberrypi&logoColor=38BDF8)
 ![ESP32](https://img.shields.io/badge/ESP32-12172B?style=flat-square&logo=espressif&logoColor=38BDF8)
 ![STM32](https://img.shields.io/badge/STM32-12172B?style=flat-square&logo=stmicroelectronics&logoColor=38BDF8)
+<br>
 ![PIC](https://img.shields.io/badge/PIC16F877A-12172B?style=flat-square&color=12172B&logoColor=38BDF8)
 ![AVR](https://img.shields.io/badge/AVR_ATmega328P-12172B?style=flat-square&color=12172B)
 ![STM32F405](https://img.shields.io/badge/STM32F405RG-12172B?style=flat-square&color=12172B)
@@ -135,7 +154,9 @@ Computer Vision                      ██████████████�
 ![ROS2](https://img.shields.io/badge/ROS_2-12172B?style=flat-square&logo=ros&logoColor=38BDF8)
 
 **Communication Protocols**
-`I2C` `SPI` `UART` `CAN` `MQTT` `Zigbee` `LoRa / LoRaWAN` `Wi-Fi / 5G` `TCP/IP` `Bluetooth`
+
+`I2C` `SPI` `UART` `CAN` `MQTT`
+`Zigbee` `LoRa / LoRaWAN` `Wi-Fi / 5G` `TCP/IP` `Bluetooth`
 
 **Operating Systems**
 
@@ -146,10 +167,14 @@ Computer Vision                      ██████████████�
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12172B,100:12172B&height=55&section=header&text=ENGINEERING%20PORTFOLIO&fontSize=20&fontColor=38BDF8&fontAlign=5&fontAlignY=60&animation=fadeIn" width="100%"/>
+<table width="100%"><tr><td bgcolor="#12172B">
+
+### <sub><sub>&nbsp;</sub></sub>ENGINEERING PORTFOLIO
+
+</td></tr></table>
 
 <table width="100%">
-<tr><th align="left" width="26%">Project</th><th align="left">Summary</th><th align="left" width="24%">Stack</th></tr>
+<tr><th align="left" width="26%">Project</th><th align="left">Summary</th><th align="left" width="22%">Stack</th></tr>
 <tr>
 <td bgcolor="#0E0E0E"><strong>Universal WheelieBot</strong></td>
 <td bgcolor="#0E0E0E">ROS 2 framework for multi-modal navigation and perception, with full sensor fusion across the platform</td>
@@ -194,7 +219,11 @@ Computer Vision                      ██████████████�
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12172B,100:12172B&height=55&section=header&text=TRAINING%20%26%20TECHNICAL%20MENTORSHIP&fontSize=20&fontColor=38BDF8&fontAlign=5&fontAlignY=60&animation=fadeIn" width="100%"/>
+<table width="100%"><tr><td bgcolor="#12172B">
+
+### <sub><sub>&nbsp;</sub></sub>TRAINING &amp; TECHNICAL MENTORSHIP
+
+</td></tr></table>
 
 <table width="100%">
 <tr><th align="left">Institution</th><th align="left">Program</th><th align="center">Reach</th><th align="center">Duration</th></tr>
@@ -208,28 +237,36 @@ Computer Vision                      ██████████████�
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12172B,100:12172B&height=55&section=header&text=CERTIFICATIONS&fontSize=20&fontColor=38BDF8&fontAlign=5&fontAlignY=60&animation=fadeIn" width="100%"/>
+<table width="100%"><tr><td bgcolor="#12172B">
+
+### <sub><sub>&nbsp;</sub></sub>CERTIFICATIONS
+
+</td></tr></table>
 
 **Industry**
+
 NVIDIA · Microsoft · Toyota · Deloitte · Infosys · Huawei · Oracle · Robotex India · Kodacy · Allison CPD <sub>+ 12 more</sub>
 
 **Academic Institutions**
+
 IIT Bombay · IIT Patna · COEP University · AIT Pune · PCCOE Pune · WCOE Sangli · PVG COET · PVPIT Pune · IIIT Pune · CDGI <sub>+ 20 more premier institutions</sub>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12172B,100:12172B&height=55&section=header&text=OPEN%20TO&fontSize=20&fontColor=38BDF8&fontAlign=5&fontAlignY=60&animation=fadeIn" width="100%"/>
+<table width="100%"><tr><td bgcolor="#12172B">
+
+### <sub><sub>&nbsp;</sub></sub>OPEN TO
+
+</td></tr></table>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=800&color=CFCFCF&center=true&vCenter=true&width=700&lines=Research+Collaborations;Robotics+Consulting;Technical+Mentoring;Competition+Builds;Industrial+Automation+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=800&color=CFCFCF&center=true&vCenter=true&width=500&lines=Research+Collaborations;Robotics+Consulting;Technical+Mentoring;Competition+Builds;Industrial+Automation+Projects)](https://git.io/typing-svg)
 
 </div>
 
 <br>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:12172B,100:0A0A0A&height=120&section=footer&text=Building%20Autonomous%20Systems%20That%20Compete%20on%20a%20Global%20Stage&fontSize=16&fontColor=E6EDF3&fontAlign=50&fontAlignY=60"/>
-
 <sub>Raunak Choudhary — Robotics &amp; Embedded Systems Engineer</sub>
 </div>
