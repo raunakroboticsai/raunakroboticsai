@@ -25,7 +25,7 @@ I design and build autonomous robots and embedded systems — from sensor arrays
 
 - 🔬 **Currently:** Research & Product Development 
 - 🤖 **Focus:** Autonomous mobile robots, SLAM & motion planning, control systems, Industrial IoT
-- 🎓 **Education:** B.E. in Electronics & Telecommunication Engineering — SKNCOE, Pune
+- 🎓 **Education:** B.E. in Electronics & Telecommunication Engineering | Master's degree in  Artificial Intelligence & Data Science (Pursuing a degree)
 - 👨‍🏫 **Teaching:** 1,500+ students and professionals trained in robotics, embedded systems and IoT
 - 🤝 **Open to:** Research collaborations, robotics consulting, industrial automation projects, technical mentoring
 
