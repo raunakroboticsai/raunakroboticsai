@@ -23,7 +23,7 @@
 
 I design and build autonomous robots and embedded systems — from sensor arrays and control loops to ROS 2 navigation stacks — and take them from lab prototype to market-ready product.
 
-- 🔬 **Currently:** Research & Product Development at **Botics Ed Tech Pvt. Ltd.**
+- 🔬 **Currently:** Research & Product Development 
 - 🤖 **Focus:** Autonomous mobile robots, SLAM & motion planning, control systems, Industrial IoT
 - 🎓 **Education:** B.E. in Electronics & Telecommunication Engineering — SKNCOE, Pune
 - 👨‍🏫 **Teaching:** 1,500+ students and professionals trained in robotics, embedded systems and IoT
